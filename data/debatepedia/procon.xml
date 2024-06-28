@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entailment-corpus>
+    <pair task="ARG" id="e-pr-1" topic="Tablet" entailment="YES">
+        <t id="pr-2">Tablets help students learn more material faster than textbooks. Technology-based instruction can reduce the time students take to reach a learning objective by 30-80%, according to the US Department of Education and studies by the National Training and Simulation Association.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-2" topic="Tablet" entailment="YES">
+        <t id="pr-3">Tablets can hold hundreds of textbooks on one device, plus homework, quizzes, and other files, eliminating the need for physical storage of books and classroom materials.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-3" topic="Tablet" entailment="NO">
+        <t id="pr-4">Tablets have too many distractions for classroom use. Students may pay attention to apps, email, games, and websites instead of their teachers.</t>
+        <h id="pr-3">Tablets can hold hundreds of textbooks on one device, plus homework, quizzes, and other files, eliminating the need for physical storage of books and classroom materials.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-4" topic="Tablet" entailment="NO">
+        <t id="pr-5">Handheld technological devices including tablets are associated with a range of health problems.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-5" topic="Tablet" entailment="YES">
+        <t id="pr-6">Handhelds contribute to Computer Vision Syndrome, which causes eyestrain, headaches, blurred vision, and dry eyes, according to the American Optometric Association. People who use mobile devices more often have a higher incidence of musculoskeletal disorders associated with repetitive strain on muscles, including carpal tunnel syndrome, neck pain ("text neck"), shoulder pain, and fibromyalgia.</t>
+        <h id="pr-5">Handheld technological devices including tablets are associated with a range of health problems.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-6" topic="Tablet" entailment="NO">
+        <t id="pr-7">Using tablets is more expensive than using print textbooks.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-7" topic="Tablet" entailment="YES">
+        <t id="pr-8">Implementing tablets in K-12 schools requires purchasing hardware (the tablet) and software (the textbooks), building new wi-fi infrastructure, and training teachers and administrators how to use the technology. Implementation costs for e-textbooks on iPad tablets are 552% higher than new print textbooks in an average high school.</t>
+        <h id="pr-7">Using tablets is more expensive than using print textbooks.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-8" topic="Tablet" entailment="NO">
+        <t id="pr-9">E-textbooks on tablets cost on average 50-60% less than print textbooks.</t>
+        <h id="pr-7">Using tablets is more expensive than using print textbooks.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-9" topic="Tablet" entailment="NO">
+        <t id="pr-10">People who read print text comprehend more, remember more, and learn more than those who read digital text.</t>
+        <h id="pr-2">Tablets help students learn more material faster than textbooks. Technology-based instruction can reduce the time students take to reach a learning objective by 30-80%, according to the US Department of Education and studies by the National Training and Simulation Association.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-10" topic="Tablet" entailment="YES">
+        <t id="pr-11">The brain interprets printed and digital text in different ways, and people generally read digital text 20-30% slower than print. According to Pulitzer Prize winning technology writer Nicholas Carr, peer-reviewed studies show that reading hyper-linked text may increase the brain's "cognitive load," lowering the ability to process, store, and retain information, or "translate the new material into conceptual knowledge.</t>
+        <h id="pr-10">People who read print text comprehend more, remember more, and learn more than those who read digital text.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-11" topic="Tablet" entailment="NO">
+        <t id="pr-12">Files on one tablet can be downloaded onto any other tablet, increasing flexibility and convenience for teachers and students.</t>
+        <h id="pr-7">Using tablets is more expensive than using print textbooks.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-12" topic="Tablet" entailment="YES">
+        <t id="pr-13">Print textbooks are heavy and cause injuries, while a tablet only weighs 1-2 pounds.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-13" topic="Tablet" entailment="NO">
+        <t id="pr-14">Print textbooks cannot crash, freeze, or get hacked. Unlike tablets, there is no chance of getting malware, spyware, or having personal information stolen from a print textbook.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-14" topic="Tablet" entailment="YES">
+        <t id="pr-15">On a tablet, e-textbooks can be updated instantly to get new editions or information. Schools will not have to constantly purchase new hardware, software, or new physical copies of textbooks.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-15" topic="Tablet" entailment="NO">
+        <t id="pr-16">Many textbooks are not available in digital format or on the specific tablet used by a school. As of 2012, only 30% of textbook titles are available electronically.</t>
+        <h id="pr-15">On a tablet, e-textbooks can be updated instantly to get new editions or information. Schools will not have to constantly purchase new hardware, software, or new physical copies of textbooks.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-16" topic="Tablet" entailment="NO">
+        <t id="pr-17">Many students do not have sufficient home internet bandwidth to use tablets.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-17" topic="Tablet" entailment="NO">
+        <t id="pr-18">The higher cost of tablets marginalizes poorer school districts and increases the "digital divide."</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-18" topic="Tablet" entailment="YES">
+        <t id="pr-19">Students "need home broadband to access digital content and to complete Internet based homework," according to FCC Chairman Julius Genachowski and Secretary of Education Arne Duncan, but about a third of Americans – 100 million people – do not have broadband internet at home.</t>
+        <h id="pr-17">Many students do not have sufficient home internet bandwidth to use tablets.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-19" topic="Tablet" entailment="YES">
+        <t id="pr-20">Rich school districts can afford to implement e-textbooks on tablets, while poor school districts cannot. Low income schools are less likely to implement an e-textbook program than to pay for teachers or basic classroom supplies.</t>
+        <h id="pr-18">The higher cost of tablets marginalizes poorer school districts and increases the "digital divide."</h>
+    </pair>
+    <pair task="ARG" id="e-pr-20" topic="Tablet" entailment="YES">
+        <t id="pr-21">Tablets help students better prepare for a world immersed in technology.</t>
+        <h id="pr-1">Tablets should replace textbooks in schools.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-21" topic="Tablet" entailment="YES">
+        <t id="pr-22">Students that learn technology skills early in life will be better prepared to pursue relevant careers later in life. The fastest growing and highest paying jobs in the United States are technology intensive. Employment in "computer and information systems" is expected to grow by 18% between 2010-20, according to the US Bureau of Labor Statistics.</t>
+        <h id="pr-21">Tablets help students better prepare for a world immersed in technology.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-22" topic="Obesity" entailment="YES">
+        <t id="pr-2">Obesity, like other diseases, impairs the normal functioning of a body. People who are obese have excess adipose (or fat) tissue that causes the overproduction of certain molecules and mediators in the body, which lead to abnormal regulation of food intake and energy expenditure.</t>
+        <h id="pr-1">Obesity is a disease.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-23" topic="Obesity" entailment="NO">
+        <t id="pr-3">Obesity does not necessarily impair the normal functioning of a body as other diseases do. Many people with a BMI in the obesity range are not physically impaired and live normal lives. </t>
+        <h id="pr-2">Obesity, like other diseases, impairs the normal functioning of a body. People who are obese have excess adipose (or fat) tissue that causes the overproduction of certain molecules and mediators in the body, which lead to abnormal regulation of food intake and energy expenditure.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-24" topic="Obesity" entailment="YES">
+        <t id="pr-4">Obesity decreases a person's life expectancy or can cause death, like other diseases.</t>
+        <h id="pr-1">Obesity is a disease.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-25" topic="Obesity" entailment="YES">
+        <t id="pr-5">Obesity in adults can lead to three years loss of life. Extreme obesity can shorten a person's life span by 10 years--comparable to the decrease in years of life from smoking, or from other diseases.</t>
+        <h id="pr-4">Obesity decreases a person's life expectancy or can cause death, like other diseases.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-26" topic="Obesity" entailment="NO">
+        <t id="pr-6">Unlike other diseases that lead to shortened life expectancy or death, some obese people live long lives and do not develop diseases commonly associated with obesity, such as diabetes.</t>
+        <h id="pr-4">Obesity decreases a person's life expectancy or can cause death, like other diseases.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-27" topic="Obesity" entailment="NO">
+        <t id="pr-7">Obesity is a matter of personal responsibility. People become obese because they make bad dietary decisions and do not exercise enough or at all.</t>
+        <h id="pr-1">Obesity is a disease.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-28" topic="Obesity" entailment="NO">
+        <t id="pr-8">Some studies have shown that the hereditability of obesity is about the same as that of height. Therefore obesity is not the result of people lacking willpower to exercise or eat less, but is genetically predetermined.</t>
+        <h id="pr-7">Obesity is a matter of personal responsibility. People become obese because they make bad dietary decisions and do not exercise enough or at all.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-29" topic="Obesity" entailment="YES">
+        <t id="pr-9">Obesity is the result of sedentary lifestyles and bad dietary decisions, and not illness. For example, compared to 40 years ago, people today spend more time commuting, sitting in front of a computer, watching television, playing video games, and generally exercising less.</t>
+        <h id="pr-7">Obesity is a matter of personal responsibility. People become obese because they make bad dietary decisions and do not exercise enough or at all.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-30" topic="Obesity" entailment="NO">
+        <t id="pr-10">Obesity is a risk factor for diabetes, hypertension, some cancers, and other diseases. Other risk factors are also defined as diseases, such as hypertension which is defined as a disease because it is a risk factor for heart failure and stroke.</t>
+        <h id="pr-6">Unlike other diseases that lead to shortened life expectancy or death, some obese people live long lives and do not develop diseases commonly associated with obesity, such as diabetes.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-31" topic="Obesity" entailment="NO">
+        <t id="pr-11">Obesity is a preventable risk factor for other diseases, like smoking is a preventable risk factor for lung cancer or like drinking is a preventable risk factor for alcoholism.</t>
+        <h id="pr-10">Obesity is a risk factor for diabetes, hypertension, some cancers, and other diseases. Other risk factors are also defined as diseases, such as hypertension which is defined as a disease because it is a risk factor for heart failure and stroke.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-32" topic="Obesity" entailment="NO">
+        <t id="pr-12">Obesity can, in some cases, have positive health benefits such as increasing bone mass and reducing the risk of osteoporosis.</t>
+        <h id="pr-4">Obesity decreases a person's life expectancy or can cause death, like other diseases.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-33" topic="Obesity" entailment="YES">
+        <t id="pr-13">Diseases have characteristic signs, according to general and medical dictionaries. Obesity has a characteristic sign--excess fat--which is measured by BMI or increased waist circumference measures.</t>
+        <h id="pr-1">Obesity is a disease.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-34" topic="Obesity" entailment="NO">
+        <t id="pr-14">Obesity does not have characteristic signs or symptoms like diseases typically have. The only characteristic sign of obesity is excess fat, which is the definition of obesity itself. There are also no symptoms for obesity.</t>
+        <h id="pr-13">Diseases have characteristic signs, according to general and medical dictionaries. Obesity has a characteristic sign--excess fat--which is measured by BMI or increased waist circumference measures.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-35" topic="Obesity" entailment="YES">
+        <t id="pr-15">Government entities including the Food and Drug Administration (FDA), National Institutes of Health (NIH), and Internal Revenue Service (IRS) have affirmed that obesity is a disease.</t>
+        <h id="pr-1">Obesity is a disease.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-36" topic="Obesity" entailment="YES">
+        <t id="pr-16">Obesity is not just a recent phenomenon resulting from the modern environment. Physicians from as early as the 17th century have referenced obesity as a disease.</t>
+        <h id="pr-1">Obesity is a disease.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-37" topic="Abortion" entailment="YES">
+        <t id="pr-2">A woman's right to choose abortion is a "fundamental right" recognized by the US Supreme Court.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-38" topic="Abortion" entailment="NO">
+        <t id="pr-3">Unborn babies are human beings from the moment of conception. They have a fundamental right to life, which must be protected.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-39" topic="Abortion" entailment="NO">
+        <t id="pr-4">Personhood begins at birth, not at conception. Abortion is the termination of a pregnancy, not a baby. Personhood at conception is not a proven biological fact.</t>
+        <h id="pr-3">Unborn babies are human beings from the moment of conception. They have a fundamental right to life, which must be protected.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-40" topic="Abortion" entailment="NO">
+        <t id="pr-5">Fetuses feel pain during the abortion procedure. </t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-41" topic="Abortion" entailment="YES">
+        <t id="pr-6">According to Kanwaljeet J. S. Anand, MBBS, DPhil, Professor of Pediatrics, Anesthesiology and Neurobiology at the University of Tennessee Health Science Center, "If the fetus is beyond 20 weeks of gestation, I would assume that there will be pain caused to the fetus. And I believe it will be severe and excruciating pain."</t>
+        <h id="pr-5">Fetuses feel pain during the abortion procedure.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-42" topic="Abortion" entailment="NO">
+        <t id="pr-7">Fetuses are incapable of feeling pain when an abortion is performed. </t>
+        <h id="pr-5">Fetuses feel pain during the abortion procedure.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-43" topic="Abortion" entailment="YES">
+        <t id="pr-8">According to Stuart W. G. Derbyshire, PhD, Senior Lecturer at the University of Birmingham (England), "[n]ot only has the biological development not yet occurred to support pain experience, but the environment after birth, so necessary to the development of pain experience, is also yet to occur."</t>
+        <h id="pr-7">Fetuses are incapable of feeling pain when an abortion is performed.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-44" topic="Abortion" entailment="NO">
+        <t id="pr-9">Abortion involves killing a human being, which defies a commandment from God. The Sixth Commandment of the Bible's Old Testament (Exodus 20:13) is "Thou shalt not kill."</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-45" topic="Abortion" entailment="NO">
+        <t id="pr-10">The anti-abortion position is usually based on religious beliefs and threatens the vital separation of church and state. Religious ideology should not be a foundation for law in the United States. </t>
+        <h id="pr-9">Abortion involves killing a human being, which defies a commandment from God. The Sixth Commandment of the Bible's Old Testament (Exodus 20:13) is "Thou shalt not kill."</h>
+    </pair>
+    <pair task="ARG" id="e-pr-46" topic="Abortion" entailment="YES">
+        <t id="pr-11">Abortion gives couples the option to choose not to bring babies with severe and life-threatening medical conditions to full term.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-47" topic="Abortion" entailment="NO">
+        <t id="pr-12">Selective abortion based on genetic abnormalities (eugenic termination) is overt discrimination.</t>
+        <h id="pr-11">Abortion gives couples the option to choose not to bring babies with severe and life-threatening medical conditions to full term.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-48" topic="Abortion" entailment="YES">
+        <t id="pr-13">Physical limitations don't make those with disabilities less than human. The Americans with Disabilities Act of 1990 provides civil rights protection to people born with disabilities so they can lead fulfilling lives.</t>
+        <h id="pr-12">Selective abortion based on genetic abnormalities (eugenic termination) is overt discrimination.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-49" topic="Abortion" entailment="YES">
+        <t id="pr-14">A baby should not come into the world unwanted.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-50" topic="Abortion" entailment="YES">
+        <t id="pr-15">Motherhood must never be a punishment for having sexual intercourse. President Barack Obama said during a Mar. 29, 2008 campaign speech in Johnston, Pennsylvania, "I have two daughters... I'm going to teach them first about values and morals, but if they make a mistake, I don't want them punished with a baby."</t>
+        <h id="pr-14">A baby should not come into the world unwanted.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-51" topic="Abortion" entailment="NO">
+        <t id="pr-16">Women should use contraceptives, not abortion, to avoid unwanted pregnancies. A Centers for Disease Control and Prevention (CDC) study showed that 19-25% of women who received abortions in 2006 had previously had one or more abortions.  If abortion were not available, women would use preventative measures.</t>
+        <h id="pr-15">Motherhood must never be a punishment for having sexual intercourse. President Barack Obama said during a Mar. 29, 2008 campaign speech in Johnston, Pennsylvania, "I have two daughters... I'm going to teach them first about values and morals, but if they make a mistake, I don't want them punished with a baby."</h>
+    </pair>
+    <pair task="ARG" id="e-pr-52" topic="Abortion" entailment="NO">
+        <t id="pr-17">Abortion increases the likelihood that women will develop breast cancer. </t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-53" topic="Abortion" entailment="YES">
+        <t id="pr-18">In early pregnancy, levels of estrogen increase, leading to breast growth in preparation for breastfeeding. When a pregnancy is interrupted by abortion, immature cells are left in the woman's breasts, increasing the potential risk of breast cancer. </t>
+        <h id="pr-17">Abortion increases the likelihood that women will develop breast cancer.</h>
+    </pair>
+    <pair task="ARG" id="e-pr-54" topic="Abortion" entailment="NO">
+        <t id="pr-19">Access to abortion is necessary because contraceptives are not always readily available. Women need a doctor's prescription to obtain many birth control methods, such as the pill, the patch, the shot, and the diaphragm. About half of all large group insurance plans do not cover any form of prescription contraception, and only a third cover the birth control pill. </t>
+        <h id="pr-16">Women should use contraceptives, not abortion, to avoid unwanted pregnancies. A Centers for Disease Control and Prevention (CDC) study showed that 19-25% of women who received abortions in 2006 had previously had one or more abortions.  If abortion were not available, women would use preventative measures.</h>
+    </pair>
+   <pair task="ARG" id="e-pr-55" topic="Abortion" entailment="NO">
+        <t id="pr-20">An association between abortion and breast cancer is unsubstantiated. The National Cancer Institute (NCI), the American Cancer Society (ACS), and the American College of Obstetricians and Gynecologists (ACOG) have all refuted the reliability of studies claiming abortion can lead to a higher probability of developing breast cancer.</t>
+        <h id="pr-17">Abortion increases the likelihood that women will develop breast cancer.</h>
+    </pair>
+   <pair task="ARG" id="e-pr-56" topic="Abortion" entailment="YES">
+        <t id="pr-21">Access to legal, professionally-performed abortions reduces injury and death caused by unsafe, illegal abortions.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+   <pair task="ARG" id="e-pr-57" topic="Abortion" entailment="YES">
+        <t id="pr-22">Abortion reduces crime. Some estimates claim legalized abortion accounted for as much as 50% of the drop in murder, property crime, and violent crime between 1973 and 2001. Teenage girls, unmarried women, and poor women are more likely to have unintended pregnancies, and since unwanted babies are often raised in poverty, their chances of leading criminal lives in adulthood are increased.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+  <pair task="ARG" id="e-pr-58" topic="Abortion" entailment="NO">
+        <t id="pr-23">The 2001 claim by Freakonomics author Steven Levitt that abortion reduces crime is flawed. Economists at the Federal Reserve Bank of Boston found coding errors in Levitt’s research. Levitt later apologized and said on Nov. 28, 2005 that he was "personally embarrassed" about his errors.</t>
+        <h id="pr-22">Abortion reduces crime. Some estimates claim legalized abortion accounted for as much as 50% of the drop in murder, property crime, and violent crime between 1973 and 2001. Teenage girls, unmarried women, and poor women are more likely to have unintended pregnancies, and since unwanted babies are often raised in poverty, their chances of leading criminal lives in adulthood are increased.</h>
+    </pair>
+  <pair task="ARG" id="e-pr-59" topic="Abortion" entailment="YES">
+        <t id="pr-24">Abortion is an effective tool for population control. Malnutrition, starvation, poverty, lack of medical and educational services, pollution, underdevelopment, and conflict over resources are all consequences of overpopulation</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+  <pair task="ARG" id="e-pr-60" topic="Abortion" entailment="YES">
+        <t id="pr-25">Many women who choose abortion don't have the financial resources to support a child. A Sep. 2005 survey in the peer-reviewed journal Perspectives on Sexual and Reproductive Health asking women why they had an abortion found that 73% of respondents said they could not afford to have a baby, and 38% said giving birth would interfere with their education and career goals. Reproductive choice protects women from financial disadvantage.</t>
+        <h id="pr-1">Abortion should be legal.</h>
+    </pair>
+</entailment-corpus>
+
+
+
+

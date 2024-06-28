@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entailment-corpus>
+    <pair task="ARG" id="e-tr-1" topic="Violentgames" entailment="NO">
+        <t id="tr-2">Violent video games do not increase aggression.</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-2" topic="Violentgames" entailment="YES">
+        <t id="tr-3">A 2005 University of Illinois at Urbana-Champaign study found: "Violent video games players were not statistically different from the non-playing control group in their beliefs on aggression after playing the game than they were before playing." He added: "Nor was game play a predictor of aggressive behaviors. Compared with the control group, the players neither increased their argumentative behaviors after game play nor were significantly more likely to argue with their friends and partners.</t>
+        <h id="tr-2">Violent video games do not increase aggression.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-3" topic="Violentgames" entailment="YES">
+        <t id="tr-4">Some youth have tried to emulate violence in games.</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-4" topic="Violentgames" entailment="YES">
+        <t id="tr-5">"A few years ago, on Long Island, six teenagers were arrested after a crime spree involving breakins, a violent mugging and a carjacking attempt. According to what the teens told authorities, they had been trying to live out the life of Niko Belic. Ever heard of him? He is the protagonist in the wildly popular video game 'Grand Theft Auto IV.' What the teens did represents one of the worst-case scenarios imagined by those who advocate for government to limit the sale of violent video games to minors.</t>
+        <h id="tr-4">Some youth have tried to emulate violence in games.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-5" topic="Violentgames" entailment="YES">
+        <t id="tr-6">Youth playing violent games exhibit more aggression.</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-6" topic="Violentgames" entailment="YES">
+        <t id="tr-7">In experimental studies, children who view violent television shows or films — or who play violent video games — are significantly more likely to behave aggressively in comparison to children who view nonviolent television shows or films, or who play nonviolent video games. In long-term studies, individuals who consume violent media during childhood end up more aggressive as adults, in comparison with peers who consume nonviolent media during childhood.</t>
+        <h id="tr-6">Youth playing violent games exhibit more aggression.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-7" topic="Violentgames" entailment="NO">
+        <t id="tr-8">People know video game violence is fake.</t>
+        <h id="tr-6">Youth playing violent games exhibit more aggression.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-8" topic="Violentgames" entailment="YES">
+        <t id="tr-9">Young people know it: as one 13-year-old said during a study I conducted at Harvard, "With video games, you know it's fake."</t>
+        <h id="tr-8">People know video game violence is fake.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-9" topic="Violentgames" entailment="NO">
+        <t id="tr-16">F.B.I. data shows that youth violence continues to decline. It is now at its lowest rate in years. Violent video games, therefore, can hardly be seen as a major problem since they've been around for years.</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-10" topic="Violentgames" entailment="NO">
+        <t id="tr-10">TV violence is more harmful than violent video games. The New York Times. June 27, 2011: "there is much better evidence to support psychological harm from exposure to violence on TV news."</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-11" topic="Violentgames" entailment="NO">
+        <t id="tr-11">Games help develop youths' minds, skills, confidence. Such games (in moderation) may actually have some positive effects on developing minds.</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-12" topic="Violentgames" entailment="NO">
+        <t id="tr-12">Violent video games are real danger to young minds.</t>
+        <h id="tr-11">Games help develop youths' minds, skills, confidence. Such games (in moderation) may actually have some positive effects on developing minds.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-13" topic="Violentgames" entailment="YES">
+        <t id="tr-13">Research studies have yielded the conclusion that the effect of violent media consumption on aggressive behavior is in the same ballpark statistically as the effect of smoking on lung cancer, the effect of lead exposure on children's intellectual development and the effect of asbestos on laryngeal cancer.</t>
+        <h id="tr-12">Violent video games are real danger to young minds.</h>
+    </pair> 
+    <pair task="ARG" id="e-tr-14" topic="Violentgames" entailment="NO">
+        <t id="tr-14">Psychological studies purporting to show a connection between exposure to violent video games and harmful effects on children do not prove that such exposure causes minors to act aggressively. Any demon-strated effects are both small and indistinguishable from effects pro-duced by other media.</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-15" topic="Violentgames" entailment="YES">
+        <t id="tr-15">Justice Breyer: "Unlike the majority. I would find sufficient grounds in these studies and expert opinions for this court to defer to an elected legislature's conclusion that violent video games are particularly likely to harm children."</t>
+        <h id="tr-1">Violent games make youth more agressive/violent.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-16" topic="Chinaonechildpolicy" entailment="YES">
+        <t id="tr-2">China's "one child" policy is key to stabilizing global population growth. With 1.3 billion people, a fifth of the world's population, China must be a major part of the solution to the global population crisis.</t>
+        <h id="tr-1">China's "one child" policy is the key to control China's population.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-17" topic="Chinaonechildpolicy" entailment="YES">
+        <t id="tr-3">China is home to more than one-fifth of the world's population. It thoroughly understands the responsibility it bears in stabilizing world population growth and the essential role it should play. Family planning as an effective solution to China's population problems is more than just responsibility towards the well-being of the Chinese people and future generations; it is a duty owed to maintaining the stability of the world population.</t>
+        <h id="tr-2">China's "one child" policy is key to stabilizing global population growth. With 1.3 billion people, a fifth of the world's population, China must be a major part of the solution to the global population crisis.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-18" topic="Chinaonechildpolicy" entailment="YES">
+        <t id="tr-4">China would have far too many children if not for "one child". China estimates that it has three to four hundred million fewer people today with the one child policy than it would have had otherwise.</t>
+        <h id="tr-1">China's "one child" policy is the key to control China's population.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-19" topic="Chinaonechildpolicy" entailment="NO">
+        <t id="tr-5">Condoms/sex-ed better population control than "one child". Countries that simply improved access to contraceptives, Thailand and Indonesia for instance, did as much to reduce fertility as China, with its draconian policies.</t>
+        <h id="tr-4">China would have far too many children if not for "one child". China estimates that it has three to four hundred million fewer people today with the one child policy than it would have had otherwise.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-20" topic="Chinaonechildpolicy" entailment="NO">
+        <t id="tr-6">India achieved stabilization without population control. There are ways to achieve population-size sustainability without implementing a "one child" policy. There are alternative means.</t>
+        <h id="tr-4">China would have far too many children if not for "one child". China estimates that it has three to four hundred million fewer people today with the one child policy than it would have had otherwise.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-21" topic="Chinaonechildpolicy" entailment="YES">
+        <t id="tr-7">Ending China's "one-child" policy would cause a population spike. Today the fertility level in China is around 1.7 children per woman. if China were to relax its one-child policy, then it's reasonable to expect that fertility would rise. If fertility increased to replacement level of 2.1 (an increase of just under a half a child), which is not unreasonable given desired family size, the country's annual number of births would increase by nearly 30 percent, or approximately five million additional births. By midcentury, this would add up to nearly a quarter-billion more Chinese than currently projected by the U.N.</t>
+        <h id="tr-4">China would have far too many children if not for "one child". China estimates that it has three to four hundred million fewer people today with the one child policy than it would have had otherwise.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-22" topic="Chinaonechildpolicy" entailment="NO">
+        <t id="tr-8">"One child" is only partly responsible for reducing China's fertility rates. The most dramatic decrease in the rate actually occurred before the policy was imposed. Between 1970 and 1979, the largely voluntary "late, long, few" policy, which called for later childbearing, greater spacing between children, and fewer children, had already resulted in a halving of the total fertility rate, from 5.9 to 2.9. After the one-child policy was introduced, there was a more gradual fall in the rate until 1995, and it has more or less stabilized at approximately 1.7 since then.</t>
+        <h id="tr-1">China's "one child" policy is the key to control China's population.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-23" topic="Chinaonechildpolicy" entailment="YES">
+        <t id="tr-9">China one-child forestalls problems associated with overpopulation. The reduction in fertility rate and thus population size reduced the severity of problems that come with overpopulation, like epidemics, slums, overwhelmed social services (health, education, law enforcement, and more), and strain on the ecosystem from abuse of fertile land and production of high volumes of waste. </t>
+        <h id="tr-1">China's "one child" policy is the key to control China's population.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-24" topic="Chinaonechildpolicy" entailment="YES">
+        <t id="tr-10">"One child" changed tradition that more children is better. Professor Wang says China's family planning policies since 1978 have helped reduce the fertility rate further and contributed to a change in attitudes. "A lot of people simply don't want that many children. People have accepted the policy," he says.</t>
+        <h id="tr-1">China's "one child" policy is the key to control China's population.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-25" topic="Chinaonechildpolicy" entailment="NO">
+        <t id="tr-11">Solid population growth in China is a good thing. A rising population is a feature of a healthy society, not the beginning of the end for this sceptered land. Of course an increasing population puts pressure on any number of public facilities and services, from transport to schools to housing to hospitals. But it's also a motor for future economic growth which will provide for all of this.</t>
+        <h id="tr-10">"One child" changed tradition that more children is better. Professor Wang says China's family planning policies since 1978 have helped reduce the fertility rate further and contributed to a change in attitudes. "A lot of people simply don't want that many children. People have accepted the policy," he says.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-26" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-2">In 1992 the World Health Organization's Expert Committee on Drug Dependence (ECDD) undertook a 'prereview' of coca leaf at its 28th meeting. The 28th ECDD report concluded that, "the coca leaf is appropriately scheduled as a narcotic under the Single Convention on Narcotic Drugs, 1961, since cocaine is readily extractable from the leaf." This ease of extraction makes coca and cocaine inextricably linked. Therefore, because cocaine is defined as a narcotic, coca must also be defined in this way.</t>
+        <h id="tr-1">Coca can be classified as a narcotic.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-27" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-3">Coca in its natural state is not a narcotic. What is absurd about the 1961 convention is that it considers the coca leaf in its natural, unaltered state to be a narcotic. The paste or the concentrate that is extracted from the coca leaf, commonly known as cocaine, is indeed a narcotic, but the plant itself is not.</t>
+        <h id="tr-2">In 1992 the World Health Organization's Expert Committee on Drug Dependence (ECDD) undertook a 'prereview' of coca leaf at its 28th meeting. The 28th ECDD report concluded that, "the coca leaf is appropriately scheduled as a narcotic under the Single Convention on Narcotic Drugs, 1961, since cocaine is readily extractable from the leaf." This ease of extraction makes coca and cocaine inextricably linked. Therefore, because cocaine is defined as a narcotic, coca must also be defined in this way.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-28" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-4">Coca is not cocaine. Coca is distinct from cocaine. Coca is a natural leaf with very mild effects when chewed. Cocaine is a highly processed and concentrated drug using derivatives from coca.</t>
+        <h id="tr-1">Coca can be classified as a narcotic.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-29" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-5">Coca cannot be disassociated with cocaine. The active ingredient in coca leaf is the same as in cocaine. It's just more concentrated in cocaine. Because the raw material of coca and its more potent relative cocaine are so closely aligned, it is impossible to disassociate the two. If one hopes to consider cocaine a narcotic and stop its spread, they must also forbid coca.</t>
+        <h id="tr-4">Coca is not cocaine. Coca is distinct from cocaine. Coca is a natural leaf with very mild effects when chewed. Cocaine is a highly processed and concentrated drug using derivatives from coca.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-30" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-6">Component parts of other drugs aren't banned. The raw component parts of other drugs like meth are not banned. These components are a variety of household cleaning compounds. Similarly, it is wrong to ban coca because it can be turned into cocaine.</t>
+        <h id="tr-5">Coca cannot be disassociated with cocaine. The active ingredient in coca leaf is the same as in cocaine. It's just more concentrated in cocaine. Because the raw material of coca and its more potent relative cocaine are so closely aligned, it is impossible to disassociate the two. If one hopes to consider cocaine a narcotic and stop its spread, they must also forbid coca.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-31" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-7">Coca has no negative health effects.</t>
+        <h id="tr-1">Coca can be classified as a narcotic.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-32" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-8">The World Health Organization found in 1995 that the use of coca leaves appears to have no negative health effects and has positive therapeutic, sacred and social functions for indigenous Andean populations.</t>
+        <h id="tr-7">Coca has no negative health effects.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-33" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-9">Chewing coca offers an energy boost. Coca provides an energy boost for working or for combating fatigue and cold.</t>
+        <h id="tr-7">Coca has no negative health effects.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-34" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-10">Chewing coca has therapeutic value for various ailments. Chewed or consumed as tea, coca counters altitude sickness, aids digestion and quells hunger and fatigue.</t>
+        <h id="tr-7">Coca has no negative health effects.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-35" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-11">Coca chewing is bad for human health. The decision to ban coca chewing fifty years ago was based on a 1950 report elaborated by the UN Commission of Inquiry on the Coca Leaf with a mandate from ECOSOC: "We believe that the daily, inveterate use of coca leaves by chewing is thoroughly noxious and therefore detrimental".</t>
+        <h id="tr-7">Coca has no negative health effects.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-36" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-12">Coca chewing can help relieve hunger, fight obesity. Because coca helps suppress one's appetite, it is also a means of combating overeating and obesity.</t>
+        <h id="tr-7">Coca has no negative health effects.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-37" topic="Cocanarcotic" entailment="NO">
+        <t id="tr-13">Unlike nicotine or caffeine, coca chewing causes no harm to human health nor addiction or altered state, and it is effective in the struggle against obesity, a major problem in many modern societies.</t>
+        <h id="tr-11">Coca chewing is bad for human health. The decision to ban coca chewing fifty years ago was based on a 1950 report elaborated by the UN Commission of Inquiry on the Coca Leaf with a mandate from ECOSOC: "We believe that the daily, inveterate use of coca leaves by chewing is thoroughly noxious and therefore detrimental".</h>
+    </pair>
+    <pair task="ARG" id="e-tr-38" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-14">Coca is not like caffeine/nicotine due to alternative use. Again, coca is unique from other substances like caffeine or nicotine in its capacity to be diverted to highly potent, dangerous, and damaging use in cocaine, and this would justify its classification as a narcotic.</t>
+        <h id="tr-1">Coca can be classified as a narcotic.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-39" topic="Cocanarcotic" entailment="YES">
+        <t id="tr-15">Cocaine is most produced where coca is legal. Wherever coca is legally produced, cocaine production thrives with greater success. The correlation is very clear. In Bolivia, coca eradication efforts in the 1980s and 90s helped reduce cocaine production. As Evo Morales took power and legalized coca production and consumption, however, cocaine production has shot up. This is despite his efforts to fight cocaine production. The bottom line is that legalizing coca makes it easier for cocaine producers to operate. This correlation cannot be ignored.</t>
+        <h id="tr-1">Coca can be classified as a narcotic.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-40" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-2">Beauty pageants teach kids to be their very best. The promoters of Australia's first Universal Royalty Beauty Pagean defended the practice saying that it taught the lesson of "striving to be your very best".</t>
+        <h id="tr-1">Child beauty contests teach good life lessons.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-41" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-3">Beauty contests can boost a child's self-esteem. The most cited reason parents give for putting their children into beauty pageants is to boost their child's self-esteem, as well as teach poise, public speaking skills, tact, and confidence.</t>
+        <h id="tr-1">Child beauty contests teach good life lessons.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-42" topic="Childbeautycontests" entailment="NO">
+        <t id="tr-4">Claiming, let alone believing, an arena where very young children are primped like mini-adults and pitted against each other in a bid to decide who's the prettiest is good for confidence or self-esteem, is to dwell in a fool's paradise.</t>
+        <h id="tr-3">Beauty contests can boost a child's self-esteem. The most cited reason parents give for putting their children into beauty pageants is to boost their child’s self-esteem, as well as teach poise, public speaking skills, tact, and confidence.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-43" topic="Childbeautycontests" entailment="NO">
+        <t id="tr-5">Beauty pageants foster destructive perfectionism, self-criticism. William Pinsof, a clinical psychologist and president of the Family Institute at Northwestern University: "Being a little Barbie doll says your body has to be a certain way and your hair has to be a certain way. In girls particularly, this can unleash a whole complex of destructive self-experiences that can lead to eating disorders and all kinds of body distortions in terms of body image".</t>
+        <h id="tr-3">Beauty contests can boost a child's self-esteem. The most cited reason parents give for putting their children into beauty pageants is to boost their child’s self-esteem, as well as teach poise, public speaking skills, tact, and confidence.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-44" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-6">Child beauty pageants judge whole person. Some of the criteria considered in judging a pageant are writing skills, interviews, personality, looks, confidence and talent, depending on the specific competition.</t>
+        <h id="tr-1">Child beauty contests teach good life lessons.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-45" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-7">Child beauty contests teaches there will always be somebody better. Another child beauty contest mother noted: "I want my child to be aware that there's always going to be somebody better than her. It's a hard thing to learn – it was for me – and I want her to start early".</t>
+        <h id="tr-1">Child beauty contests teach good life lessons.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-46" topic="Childbeautycontests" entailment="NO">
+        <t id="tr-8">Pageants teach that self-worth is in physical beauty only. Melinda Tankard-Reist, one of the founders of Collective Shout: "Competing in these events very young children are taught very early that their only value comes from their appearance and the way they look. This in turn leads to emotional problems, eating disorders and a distorted sense of self worth and self esteem".</t>
+        <h id="tr-6">Child beauty pageants judge whole person. Some of the criteria considered in judging a pageant are writing skills, interviews, personality, looks, confidence and talent, depending on the specific competition.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-47" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-9">Child beauty contests help teach kids to deal with competition.</t>
+        <h id="tr-1">Child beauty contests teach good life lessons.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-48" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-10">Pageants teach kids to follow rules and play fair. In these cases, child pageants can teach kids to be gracious winners and good losers. They'll learn the aspects of rules and fair play.</t>
+        <h id="tr-9">Child beauty contests help teach kids to deal with competition.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-49" topic="Childbeautycontests" entailment="NO">
+        <t id="tr-11">Better alternatives to beauty pageants for building character. Anything good that a pageant does for a child, something else does it better. As a former basketball player and competitive cheerleader (yes, it's a sport), I know that competition, and the wins and losses that went with it, educated me about the real world. But it's exactly because I did those self-esteem building activities that I know there are options for parents who want confident, happy kids.</t>
+        <h id="tr-9">Child beauty contests help teach kids to deal with competition.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-50" topic="Childbeautycontests" entailment="YES">
+        <t id="tr-12">Beauty contests teach kids how to strive to move up. You see this a lot among people on the lower-income and education scales. They want their kids to learn skills that are needed to move up the social scale.</t>
+        <h id="tr-1">Child beauty contests teach good life lessons.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-51" topic="Arminglibianrebels" entailment="YES">
+        <t id="tr-2">Fawzi Bukatif, the commander of the Martyr's Brigade, part of the forces battling Gaddafi said the rebels' progress was hampered by a lack of weapons, and a reliance on "old Russian weapons". "The  problem we have is we have run out of weapons", he said. "You know our weapons are traditional ones; the old ones; the Russian weapons. We need ammunition. We need new weapons. We need anti-tanks; we do not have facilities but we have the soldiers left behind by Gaddafi". "If we do have weapons and ammunitions that we need at the moment, we can move strongly and faster".</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-52" topic="Arminglibianrebels" entailment="YES">
+        <t id="tr-3">At the end of the day, it's entirely possible that giving Libyan rebels a boost in arms could, at a minimum, level the playing field with respect to Gaddafi forces.</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-53" topic="Arminglibianrebels" entailment="YES">
+        <t id="tr-4">Once Gaddafi realizes that he is up against an endless supply of arms and ammunition, he will surely recalibrate his decisions. There have been reports that he floated the idea of leaving office as long as he is guaranteed safe passage.</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-54" topic="Arminglibianrebels" entailment="NO">
+        <t id="tr-5">West should protect Libyan civilians, not arm rebels. NATO Secretary-General Anders Fogh Rasmussen says the coalition under his control is clear about its mission. "We are not in Libya to arm people. We are in Libya to protect civilians against attacks".</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-55" topic="Arminglibianrebels" entailment="NO">
+        <t id="tr-6">Arms will go to rebels no matter if West provides them. There are strong arguments for providing at least small arms. One reason is that weapons are probably going to pour in anyway, perhaps from Egyptian stockpiles or factories and perhaps paid for by Gulf Arab states (indeed, the Wall Street Journal has reported that this is already happening, though Egypt denies it).</t>
+        <h id="tr-5">West should protect Libyan civilians, not arm rebels. NATO Secretary-General Anders Fogh Rasmussen says the coalition under his control is clear about its mission. "We are not in Libya to arm people. We are in Libya to protect civilians against attacks".</h>
+    </pair>
+    <pair task="ARG" id="e-tr-56" topic="Arminglibianrebels" entailment="NO">
+        <t id="tr-7">Humanitarian mission needn't involve arming Libyan rebels. It might be justifiable to arm the rebels if that were only way to achieve the humanitarian objectives of the intervention. Yet there isn't any evidence that it would be necessary to do so to defend Benghazi as a sanctuary. It seems clear that Benghazi can be defended from the air by NATO, even if that requires enforcing "no-drive" zones occasionally.</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-57" topic="Arminglibianrebels" entailment="NO">
+        <t id="tr-8">The rebels don't need arms so much as technical and tactical training in how to use them, the creation of some kind of communications network, and a command structure that might help them become a cohesive fighting force.</t>
+        <h id="tr-3">At the end of the day, it's entirely possible that giving the rebels a boost in arms could, at a minimum, level the playing field with respect to Gaddafi forces.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-58" topic="Arminglibianrebels" entailment="NO">
+        <t id="tr-9">No controls on how Libyan rebels use West's weapons. Now the Administration's policy may be migrating toward the idea of supplying the rebels with weapons. Yet the rebels have as yet no command and control; they serve a political entity (if that is not too generous a way to describe the councils that have been set up in eastern Libya) that is recognized as legitimate by France alone. There is no way to police the rebels' conduct or to hold them accountable for their actions on the battlefield.</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-59" topic="Arminglibianrebels" entailment="YES">
+        <t id="tr-10">The alternative to arming the rebels is almost certainly many thousands executed and thousands more disappeared by Gaddafi's military and secret police though.</t>
+        <h id="tr-1">Arming Libyan rebels has a military impact on the rebels' combat abilities and in ousting Gaddafi from power.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-60" topic="Sobrietytest" entailment="YES">
+        <t id="tr-2">Random breath tests help deter drunk driving. A 1995 review by the European Transport Safety Council concluded, "There is wide agreement in the international scientific literature that increasing driver's perception of the risk of being detected for excess alcohol is a very important element in any package of measures to reduce alcohol related crashes".</t>
+        <h id="tr-1">Random sobriety tests for drivers are effective at deterring drunk driving.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-61" topic="Sobrietytest" entailment="NO">
+        <t id="tr-3">Random breath testing doesn't necessarily lower drunk driving. Many countries have had random testing for some time and have seen no real fall in drink driving figures.</t>
+        <h id="tr-1">Random sobriety tests for drivers are effective at deterring drunk driving.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-62" topic="Sobrietytest" entailment="YES">
+        <t id="tr-4">Little evidence random alcohol tests deter drunk driving. There is a dearth of research regarding the deterrent effect of checkpoints. The only formally documented research regarding deterrence is a survey of Maryland's "Checkpoint Strikeforce" program. The survey found no deterrent effect: "To date, there is no evidence to indicate that this campaign, which involves a number of sobriety checkpoints and media activities to promote these efforts, has had any impact on public perceptions, driver behaviors, or alcohol-related motor vehicle crashes and injuries. This conclusion is drawn after examining statistics for alcohol-related crashes, police citations for impaired driving, and public perceptions of alcohol-impaired driving risk".</t>
+        <h id="tr-3">Random breath testing doesn't necessarily lower drunk driving. Many countries have had random testing for some time and have seen no real fall in drink driving figures.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-63" topic="Sobrietytest" entailment="YES">
+        <t id="tr-5">Random alcohol breath tests reduce accidents, save lives. The Centers for Disease Control, in a 2002 Traffic Injury Prevention report, found that in general, the number of alcohol related crashes was reduced by 20% in states that implement sobriety checkpoints compared to those that do not.</t>
+       <h id="tr-1">Random sobriety tests for drivers are effective at deterring drunk driving.</h>
+    </pair>
+<pair task="ARG" id="e-tr-64" topic="Sobrietytest" entailment="NO">
+        <t id="tr-6">Repeat drunk drivers unlikely to respond to random breath testing deterrence. "One statistic the MAD bunch doesn't like to mention is the fact that half of the people killed by drunk drivers have at least double the legal blood alcohol limit. They don't like it because it implies that, on a sliding scale, drivers who are barely over the legal limit are probably not that bad. It suggests that problems associated with drunk driving are overwhelmingly caused by a small cadre of hard-core problem drinkers who are sloshed behind the wheel. Unfortunately, these are also the people who are the least responsive to legal incentives, so MAD - and the law - targets ordinary people who have a glass or two of sherry instead".</t>
+        <h id="tr-5">Random alcohol breath tests reduce accidents, save lives. The Centers for Disease Control, in a 2002 Traffic Injury Prevention report, found that in general, the number of alcohol related crashes was reduced by 20% in states that implement sobriety checkpoints compared to those that do not.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-65" topic="Sobrietytest" entailment="YES">
+        <t id="tr-7">Random alcohol tests are more effective than alternative measures. The federal Justice Department of Canada moved to implement Random Breath Testing (RBT), concluding: "a system of random checks is more effective than a combination of other measures such as a lower threshold for blood alcohol level and more frequent RIDE checkpoints".</t>
+       <h id="tr-1">Random sobriety tests for drivers are effective at deterring drunk driving.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-66" topic="Sobrietytest" entailment="NO">
+        <t id="tr-8">The majority of people caught drink driving have not been from random breath tests. They have been from tip-offs, police chases and police pulling over suspects, not random breath testing.</t>
+        <h id="tr-7">Random alcohol tests are more effective than alternative measures. The federal Justice Department of Canada moved to implement Random Breath Testing (RBT), concluding: "a system of random checks is more effective than a combination of other measures such as a lower threshold for blood alcohol level and more frequent RIDE checkpoints".</h>
+    </pair>
+    <pair task="ARG" id="e-tr-67" topic="Osamaphoto" entailment="YES">
+        <t id="tr-2">Releasing Bin Laden photos would inflame Muslim world White House Spokesman Jay Carney: "There are sensitivities here in terms of the appropriateness of releasing photographs in the aftermath of this firefight. It is fair to say they're gruesome photographs. It is certainly possible that it could be inflammatory".</t>
+        <h id="tr-1">Release of Osama bin Laden death photos incite Muslim reaction, terrorism.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-68" topic="Osamaphoto" entailment="NO">
+        <t id="tr-3">Photos won't upset extremists more than Laden's death. Wojtek Wolfe, a Rutgers-Camden professor: "I don’t know if it’s really going to make the situation any worse. It will upset some people - but those people are already upset".</t>
+        <h id="tr-1">Release of Osama bin Laden death photos incite Muslim reaction, terrorism.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-69" topic="Osamaphoto" entailment="NO">
+        <t id="tr-4">US shouldn't kowtow to sensitivities of extremists. Obama and Rogers' idea that news should be calibrated by the government to ease the job of the U.S. military makes for a First Amendment loophole you could drive a motorized regiment through. If al-Qaida and its supporters are more irate with the United States this week than they were last week, it's because U.S. commandos killed Bin Laden. Obama should never have marked him for death if tending the 'sensitivities' of al-Qaida and its allies was U.S. policy.</t>
+        <h id="tr-1">Release of Osama bin Laden death photos incite Muslim reaction, terrorism.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-70" topic="Osamaphoto" entailment="NO">
+        <t id="tr-5">Death photos destroy myth of Bin Laden's invulnerability.</t>
+       	<h id="tr-1">Release of Osama bin Laden death photos incite Muslim reaction, terrorism.</h>
+    </pair>
+   <pair task="ARG" id="e-tr-71" topic="Osamaphoto" entailment="YES">
+        <t id="tr-6">Death photos reveal Bin Laden as monster he was. The reason to display the photos is to show bin Laden for what he really was: not a holy warrior, not a holy anything, but a deluded mass murderer who met the end he so richly deserved.</t>
+        <h id="tr-5">Death photos destroy myth of Bin Laden's invulnerability.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-72" topic="Osamaphoto" entailment="YES">
+        <t id="tr-7">Releasing Bin Laden photos is a national security risk.</t>
+      	<h id="tr-1">Release of Osama bin Laden death photos incite Muslim reaction, terrorism.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-73" topic="Osamaphoto" entailment="YES">
+        <t id="tr-8">Osama photos likely to provoke violence at US embassies. Secretary of State Hilary Clinton and Secretary of Defense Robert Gates vocally worried that the images would provoke anti-American violence at embassies, consulates, and military bases overseas.</t>
+        <h id="tr-7">Releasing Bin Laden photos is a national security risk.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-74" topic="Osamaphoto" entailment="NO">
+        <t id="tr-9">National security secrets not at risk in releasing Bin Laden photos. If national-security secrets were revealed in the photos, the equation would be different. But that's not the case with a single image of the terrorist leader's dead body.</t>
+        <h id="tr-7">Releasing Bin Laden photos is a national security risk.</h>
+    </pair>
+   <pair task="ARG" id="e-tr-75" topic="Osamaphoto" entailment="NO">
+        <t id="tr-10">Bin Laden death photos send warning to US enemies.</t>
+      	<h id="tr-1">Release of Osama bin Laden death photos incite Muslim reaction, terrorism.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-76" topic="Osamaphoto" entailment="YES">
+        <t id="tr-11">Releasing the photos could deter would-be jihadists, who would have to think a little harder when they see the bloodied bodies of Osama's men killed in the firefight in his hideaway, photos obtained by Reuters from a Pakistani security officer and rightly released on Wednesday.</t>
+        <h id="tr-10">Bin Laden death photos send warning to US enemies.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-77" topic="Privatizingsocialsecurity" entailment="YES">
+        <t id="tr-2">If Social Security were privatized, people would deposit their income with a bank. People actually save resources that businesses can invest. We, as true savers, get more resources in the future.</t>
+        <h id="tr-1">Privatizing social security improves economic growth.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-78" topic="Privatizingsocialsecurity" entailment="NO">
+        <t id="tr-3">Creating private accounts could dampen economic growth, which would further weaken social security's future finances. Privatizing Social Security will increase federal deficits and debt significantly while increasing the likelihood that national savings will decline.</t>
+        <h id="tr-2">If Social Security were privatized, people would deposit their income with a bank. People actually save resources that businesses can invest. We, as true savers, get more resources in the future.</h>
+    </pair>
+   <pair task="ARG" id="e-tr-79" topic="Privatizingsocialsecurity" entailment="YES">
+        <t id="tr-4">Social Security drains capital from the poorest areas of the country, leaving less money available for new investment and job creation. Privatization would increase national savings and provide a new pool of capital for investment that would be particularly beneficial to the poor.</t>
+        <h id="tr-1">Privatizing social security improves economic growth.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-80" topic="Privatizingsocialsecurity" entailment="NO">
+        <t id="tr-5">Privatization would not increase capital for investment. The problem is that for every dollar put into the market through a private account, the government would have to borrow a dollar in the market to cover existing payouts. Thus the supposed benefit is entirely eliminated, as the net impact on the capital available for investment is zero.</t>
+        <h id="tr-4">Social Security drains capital from the poorest areas of the country, leaving less money available for new investment and job creation. Privatization would increase national savings and provide a new pool of capital for investment that would be particularly beneficial to the poor.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-81" topic="Privatizingsocialsecurity" entailment="YES">
+        <t id="tr-6">Private accounts prevent politicians taking from social security.</t>
+        <h id="tr-1">Privatizing social security improves economic growth.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-82" topic="Privatizingsocialsecurity" entailment="YES">
+        <t id="tr-7">While Americans in retirement or approaching retirement would stay in the current system, younger workers should have the option to invest a portion of their money in financial assets other than U.S. Treasuries. These accounts would be the ultimate "lock box" - they would prevent politicians in Washington from raiding the Trust Fund. The truth is that taxpayers bailout politicians every year thanks to Social Security. Congress and the White House spend more money than they have so they steal money from Social Security to help pay for it. That needs to stop and there is no responsible way of doing that except with personal accounts.</t>
+        <h id="tr-6">Private accounts prevent politicians taking from social security.</h>
+    </pair>
+   <pair task="ARG" id="e-tr-83" topic="Privatizingsocialsecurity" entailment="NO">
+        <t id="tr-8">Privatization during economic crisis would have been disaster. Privatization in the midst of the greatest economic downturn since the Great Depression would have caused households to have lost even more of their assets, had their investments been invested in the U.S. stock market.</t>
+        <h id="tr-1">Privatizing social security improves economic growth.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-84" topic="Privatizingsocialsecurity" entailment="NO">
+        <t id="tr-9">Privatizing social security would wrongly enrich banks. Privatization would represent a windfall for Wall Street financial institutions, who would obtain significant fees for managing private accounts.</t>
+        <h id="tr-1">Privatizing social security improves economic growth.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-85" topic="Privatizingsocialsecurity" entailment="NO">
+        <t id="tr-10">Diverting up to four percentage points of the payroll tax to create private accounts as the president has proposed would shorten significantly the time until the Trust Funds become depleted.</t>
+         <h id="tr-1">Privatizing social security improves economic growth.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-86" topic="Privatizingsocialsecurity" entailment="YES">
+        <t id="tr-11">The program is "pay as you go", meaning current payroll taxes pay for current retirees. Diverting to four percentage points of payroll taxes (or other sources of government funds) to fund private accounts would drive enormous deficits and borrowing ("transition costs"). </t>
+        <h id="tr-10">Diverting up to four percentage points of the payroll tax to create private accounts as the president has proposed would shorten significantly the time until the Trust Funds become depleted.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-87" topic="Internetaccess" entailment="YES">
+        <t id="tr-2">Internet access is essential now; must be a right. The internet is only that wire that delivers freedom of speech, freedom of assembly, and freedom of the press in a single connection.</t>
+        <h id="tr-1">Internet access is fundamental in modernity.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-88" topic="Internetaccess" entailment="NO">
+        <t id="tr-3">Just because something is a huge part in many people's lives, does it mean that those things should be regarded as rights? Cell phones for example. Should they become a right. If the internet is a right, then cell phones should be rights because they are more common. Other examples, like cars, or even drugs. Drugs and cars are a huge part of people lives. Just because they're widespread and is used extensively, doesn't mean that they should be rights.</t>
+        <h id="tr-2">Internet access is essential now; must be a right. The internet is only that wire that delivers freedom of speech, freedom of assembly, and freedom of the press in a single connection.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-89" topic="Internetaccess" entailment="NO">
+        <t id="tr-4">Internet not as important as real rights. We may think of such trivial things as a fundamental right, but consider the truly impoverished and what is most important to them. The right to vote, the right to liberty and freedom from slavery or the right to elementary education. Perhaps it's time for a reality check, and to re-examine which of our 'rights' are truly important.</t>
+        <h id="tr-1">Internet access is fundamental in modernity.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-90" topic="Internetaccess" entailment="YES">
+        <t id="tr-5">Internet access is essential to other human rights United Nations' Universal Declaration of Human Rights includes the right to education and the right to work, which may hinge on Internet access. And, indeed, The European Parliament has ruled that it sees internet access as 'critical for the practical exercise of a wide array of fundamental rights.</t>
+        <h id="tr-1">Internet access is fundamental in modernity.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-91" topic="Internetaccess" entailment="NO">
+        <t id="tr-6">I've seen the growing awareness within the developing world that computers and connectivity matter and can be useful. It's not that computers matter more than water, food, shelter and healthcare, but that the network and PCs can be used to ensure that those other things are available. Satellite imagery sent to a local computer can help villages find fresh water, mobile phones can tell farmers the prices at market so they know when to harvest. The same arguments apply in the UK, but those of us who have easy, affordable and fast connectivity tend not to think of the plight of those who can't get online, just as we so often fail to notice the homeless people in our towns or let our eyes glide over deprived housing estates as we sit on the train.</t>
+        <h id="tr-4">Internet not as important as real rights. We may think of such trivial things as a fundamental right, but consider the truly impoverished and what is most important to them. The right to vote, the right to liberty and freedom from slavery or the right to elementary education. Perhaps it's time for a reality check, and to re-examine which of our 'rights' are truly important.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-92" topic="Internetaccess" entailment="NO">
+        <t id="tr-7">Internet access is not really essential. It is much easier than people think to live without the Internet. People were able to lead happy succesful lives in the past without the Internet, and they are able to do so now as well. While there are certainly luxuries surrounding the use of the Internet, it is excessive to deem it as essential to human life and happiness. It is excessive there to deem it as a fundamental human right on these grounds.</t>
+        <h id="tr-1">Internet access is fundamental in modernity.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-93" topic="Internetaccess" entailment="NO">
+        <t id="tr-8">Internet access is no right, but means of entertainment. The Internet functions mostly as a means of entertainment, enabling individuals to acquire information and to engage in other activities. No form of entertainment should be made a "right".</t>
+        <h id="tr-2">Internet access is essential now; must be a right. The internet is only that wire that delivers freedom of speech, freedom of assembly, and freedom of the press in a single connection.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-94" topic="Internetaccess" entailment="YES">
+        <t id="tr-9">In the U.S., if we are serious about equality of opportunity, access to the Internet could be strongly defended as a human right.</t>
+        <h id="tr-1">Internet access is fundamental in modernity.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-95" topic="Internetaccess" entailment="YES">
+        <t id="tr-10">Some take for granted the idea that the Internet is good for humanity. Many people argue that it has had many negative impacts. The primary use of social networking sites is "meforming", or frequent updates about the minutia of people's lives that one research group duly categorized as "pointless babble". And if the internet's most common asset is keeping us posted on what old high school classmates are having for brunch, then its risks may be more important.</t>
+        <h id="tr-8">Internet access is no right, but means of entertainment. The Internet functions mostly as a means of entertainment, enabling individuals to acquire information and to engage in other activities. No form of entertainment should be made a "right".</h>
+    </pair>
+    <pair task="ARG" id="e-tr-96" topic="Internetaccess" entailment="YES">
+        <t id="tr-11">The internet is a right. It's in their enlightened self-interest. And I will suggest that the WEF Global Agenda Council should catalogue, quantify, and demonstrate that self-interest in terms of the benefit the internet brings a nation in: 1. business – jobs created, efficiencies found, innovation sparked, entrepreneurism supported; 2. education – every human able to search all our digital knowledge, distributed university curricula, the growth of the aggregated education, the pull toward literacy; 3. politics – the ability of citizens to coalesce and act, the increase in involvement in politics, the greater transparency enabled (which some politicians will not think is in their self-interest – but that is precisely why we will want this creed to separate democrats from dictators and the corrupt); 4. government – we have only begun to use connectivity to improve governance in its relationships with constituents and in efficiencies; 4. society – I argue in my book that staying connected may change the nature of relationships for the good – one-to-one and nation-to-nation.</t>
+        <h id="tr-2">Internet access is essential now; must be a right. The internet is only that wire that delivers freedom of speech, freedom of assembly, and freedom of the press in a single connection.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-98" topic="Internetaccess" entailment="YES">
+        <t id="tr-13">Internet access in a time of democratized online publishing may be understood as a contemporary form of the right to self-expression.</t>
+        <h id="tr-1">Internet access is fundamental in modernity.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-102" topic="Groundzeromosque" entailment="YES">
+        <t id="tr-5">Intentions of ground zero mosque developers are pure. State Department Spokesman P.J. Crowley said: "We have a long-term relationship with Imam Faisal Abdul Rauf. His work on tolerance and religious diversity is well-known and he brings a moderate perspective to foreign audiences on what it's like to be a practicing Muslim in the United States".</t>
+        <h id="tr-1">The intentions of Cordoba House (also referred to as the "Ground Zero Mosque") developers are pure.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-103" topic="Groundzeromosque" entailment="YES">
+        <t id="tr-6">Cordoba House is a Muslim community center first; mosque second. Only the top floor of the mosque will be a prayer space. Most of Ground Zero Mosque will act as a Muslim community center, with a pool and exercise areas and spaces for other community-related activities that have very little to do with prayer. This just dampens the idea that this is somehow a hard core, or even radical, religious institution. It simply is not.</t>
+        <h id="tr-1">The intentions of Cordoba House (also referred to as the "Ground Zero Mosque") developers are pure.</h>
+    </pair>
+    <pair task="ARG" id="e-tr-105" topic="Groundzeromosque" entailment="YES">
+        <t id="tr-8">Name "Cordoba House" indicates nefarious intent of mosque. The true intentions of Rauf are also revealed by the name initially proposed for the Ground Zero mosque— "Cordoba House" — which is named for a city in Spain where a conquering Muslim army replaced a church with a mosque.</t>
+        <h id="tr-7">Name "Cordoba House" is a very direct historical indication that the Ground Zero mosque is all about conquest and thus an assertion of Islamist triumphalism.</h>
+    </pair>
+</entailment-corpus>

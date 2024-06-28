@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entailment-corpus>
+    <pair task="ARG" id="1" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="2-j3">I never saw a guiltier man in my life. You sat right in court and heard the same thing I did. The man's a dangerous killer.</t>
+        <h id="1-j8">I don't know [if he is guilty].</h>
+    </pair>
+    <pair task="ARG" id="2" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="3-j8">He's nineteen years old, [he is too young to be guity].</t>
+        <h id="2-j3">I never saw a guiltier man in my life. You sat right in court and heard the same thing I did. The man's a dangerous killer.</h>
+    </pair>
+    <pair task="ARG" id="3" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="4-j3">That's old enough. He knifed his own father, four inches into the chest. An innocent little nineteen-year old kid. They proved it a dozen different ways.</t>
+        <h id="3-j8">He's nineteen years old, [he is too young to be guity].</h>
+    </pair>
+    <pair task="ARG" id="4" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="5-j8">It's not so easy for me to raise my hand and send a boy off to die without talking about it first.</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="5" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="6-j7">I think the guy is guilty. You couldn't change my mind if you talked for a hundred years.</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="6" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="7-j8">This boy has been kicked around all his life. You know, living in a slum, his mother dead since he was nine. That's not a very good head start. He's a tough, angry kid. I think maybe we owe him a few words [before considering him guilty].</t>
+        <h id="6-j7">I think the guy is guilty. You couldn't change my mind if you talked for a hundred years.</h>
+    </pair>
+    <pair task="ARG" id="7" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="8-j10">We don't owe him a thing [before considering him guilty]. He got a fair trial. You're not going to tell us that we're supposed to believe him, knowing what he is. I've lived among 'em all my life. You can't believe a word they say.</t>
+        <h id="7-j8">This boy has been kicked around all his life. You know, living in a slum, his mother dead since he was nine. That's not a very good head start. He's a tough, angry kid. I think maybe we owe him a few words [before considering him guilty].</h>
+    </pair>
+    <pair task="ARG" id="8" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="9-j9">I don't know that [you can't believe a word they say]. Since when is dishonesty a group characteristic? You have no monopoly on the truth.</t>
+        <h id="8-j10">We don't owe him a thing [before considering him guilty]. He got a fair trial. You're not going to tell us that we're supposed to believe him, knowing what he is. I've lived among 'em all my life. You can't believe a word they say.</h>
+    </pair>
+    <pair task="ARG" id="9" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="10-j2">I just think he's guilty. I thought it was obvious. I mean nobody proved otherwise.</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="10" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="11-j8">Nobody has to prove [that he is not guilty]. The burden of proof is on the prosecution. The defendant doesn't have to open his mouth. That's in the Constitution. The Fifth Amendment.</t>
+        <h id="10-j2">I just think he's guilty. I thought it was obvious. I mean nobody proved otherwise.</h>
+    </pair>
+    <pair task="ARG" id="11" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="12-j2">I think he was guilty.</t>
+        <h id="11-j8">Nobody has to prove [that he is not guilty]. The burden of proof is on the prosecution. The defendant doesn't have to open his mouth. That's in the Constitution. The Fifth Amendment.</h>
+    </pair>
+    <pair task="ARG" id="12" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="13-j3">Let's take the old man who lived on the second floor right underneath the room where the murder took place. At ten minutes after twelve on the night of the killing he heard loud noises in the upstairs apartment. He said it sounded like a fight. Then he heard the kid say to his father, "I'm gonna kill you.!" A second later he heard a body falling, and he ran to the door of his apartment, looked out, and saw the kid running down the stairs and out of the house. Then he called the police. They found the father with a knife in his chest.</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="13" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="14-F">[The man who lived on the second floor right underneath the room where the murder took place at ten minutes after twelve on the night of the killing he heard loud noises in the upstairs apartment. He said it sounded like a fight. Then he heard the kid say to his father, "I'm gonna kill you.!" A second later he heard a body falling, and he ran to the door of his apartment, looked out, and saw the kid running down the stairs and out of the house. Then he called the police. They found the father with a knife in his chest].  And the coroner fixed the time of death at around midnight.</t>
+        <h id="13-j3">Let's take the old man who lived on the second floor right underneath the room where the murder took place. At ten minutes after twelve on the night of the killing he heard loud noises in the upstairs apartment. He said it sounded like a fight. Then he heard the kid say to his father, "I'm gonna kill you.!" A second later he heard a body falling, and he ran to the door of his apartment, looked out, and saw the kid running down the stairs and out of the house. Then he called the police. They found the father with a knife in his chest.</h>
+    </pair>
+    <pair task="ARG" id="14" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="15-j4">The boy claimed [that while the man who lived on the second floor right underneath the room where the murder took place saw the kid running down the stairs and out of the house] he was at the movies. That's a little ridiculous. He couldn't even remember what pictures he saw.</t>
+        <h id="14-F">[The man who lived on the second floor right underneath the room where the murder took place saw the kid running down the stairs and out of the house]. And the coroner fixed the time of death at around midnight.</h>
+    </pair>
+    <pair task="ARG" id="15" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="16-j3">That's right. Did you hear [that the boy couldn't even remember what pictures he saw at the movie]?</t>
+        <h id="15-j4">The boy claimed that he was at the movies. That's a little ridiculous. He couldn't even remember what pictures he saw.</h>
+    </pair>
+	<pair task="ARG" id="16" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="17-j10">[Beside the fact that the boy couldn't even remember what pictures he saw at the movie], what about the woman across the street? If her testimony [to have seen the killing] don't prove [that the boy is guilty], then nothing does.</t>
+        <h id="16-j3">That's right. Did you hear [that the boy couldn't even remember what pictures he saw at the movie]?</h>
+    </pair>
+    <pair task="ARG" id="17" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="18-J8">[She saw the killing] through the windows of a passing elevated train [so her testimony is not reliable].</t>
+        <h id="17-j10">Look, what about the woman across the street? If her testimony [to have seen the killing] don't prove [that the boy is guilty], then nothing does.</h>
+    </pair>
+    <pair task="ARG" id="18" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="19-J10">They proved in court that you can look through the windows of a passing elevated train at night and see what's happening on the other side. They proved it.</t>
+        <h id="18-J8">[She saw the killing] through the windows of a passing elevated train [so her testimony is not reliable].</h>
+    </pair>
+    <pair task="ARG" id="19" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="20-J6">I started to be convinced [about the fact that the guy is guilty], with the testimony from those people across the hall. Didn't they say something about an argument between the father and the boy around seven o'clock that night?</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="20" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="21-j8">Eight o'clock. They heard the father hit the boy twice and then saw the boy walk angrily out of the house. [It does not prove that the boy killed him].</t>
+        <h id="20-J6">I started to be convinced [about the fact that the guy is guilty], with the testimony from those people across the hall. Didn't they say something about an argument between the father and the boy around seven o'clock that night?</h>
+    </pair>
+    <pair task="ARG" id="21" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="22-j7">Look at the kid's record. At fifteen he was in reform school. He stole a car. He's been arrested for mugging. He was picked up for knife-fighting. I think they said he stabbed somebody in the arm. This is a very fine boy.</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="22" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="23-j8">Ever since he was five years old his father beat him up regularly. He used his fists.</t>
+        <h id="22-j7">Look at the kid's record. At fifteen he was in reform school. He stole a car. He's been arrested for mugging. He was picked up for knife-fighting. I think they said he stabbed somebody in the arm. This is a very fine boy.</h>
+    </pair>
+    <pair task="ARG" id="23" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="24-j7">[If I had a kid like that] I would [have beated him]!</t>
+        <h id="23-j8">Ever since he was five years old his father beat him up regularly. He used his fists.</h>
+    </pair>
+    <pair task="ARG" id="24" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="25-j3">It's the kids. They don't listen. I've got a kid. When he was eight years old, he ran away from a fight. I saw him. I was so ashamed, I told him right out, "I'm gonna make a man out of you or I'm gonna bust you up into little pieces trying." When he was fifteen he hit me in the face. He's big, you know. I haven't seen him in three years.</t>
+        <h id="24-j7">[If I had a kid like that] I would [have beated him]!</h>
+    </pair>
+    <pair task="ARG" id="25" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="26-j8">I had a peculiar feeling about this trial. Somehow I felt that the defense counsel never really conducted a thorough cross-examination. I mean, he was appointed by the court to defend the boy. He hardly seemed interested. Too many questions were left unasked.</t>
+        <h id="1-j8">I don't know [if he il guilty].</h>
+    </pair>
+    <pair task="ARG" id="26" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="27-j3">Let's talk about that cute little switchknife. You know, the one that fine, upright kid admitted buying.</t>
+        <h id="26-j8">I had a peculiar feeling about this trial. Somehow I felt that the defense counsel never really conducted a thorough cross-examination. I mean, he was appointed by the court to defend the boy. He hardly seemed interested. Too many questions were left unasked.</h>
+    </pair>
+    <pair task="ARG" id="27" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="28-j4">The boy claims that on the way home the switchknife [that he admitted buying] must have fallen through a hole in his coat pocket, that he never saw it again. You know what actually happened. The boy took the knife home and a few hours later stabbed his father with it and even remembered to wipe off the fingerprints.</t>
+        <h id="27-j3">Let's talk about that cute little switchknife. You know, the one that fine, upright kid admitted buying.</h>
+    </pair>
+    <pair task="ARG" id="28" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="29-j8">It's possible that the boy lost the knife and that someone else stabbed his father with a similar knife. It's possible.</t>
+        <h id="28-j4">The boy claims that on the way home the switchknife [that he admitted buying] must have fallen through a hole in his coat pocket, that he never saw it again. You know what actually happened. The boy took the knife home and a few hours later stabbed his father with it and even remembered to wipe off the fingerprints.</h>
+    </pair>
+    <pair task="ARG" id="29" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="30-j4">Take a look at that knife. It's a very strange knife. I've never seen one like it before in my life and neither had the storekeeper who sold it to him.</t>
+        <h id="29-j8">It's possible that the boy lost the knife and that someone else stabbed his father with a similar knife. It's possible.</h>
+    </pair>
+    <pair task="ARG" id="30" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="31-j8">I'm not trying to make anyone accept [the hypothesis that the boy lost the knife and that someone else stabbed his father with a similar knife]. I'm just saying it's possible.</t>
+        <h id="30-j4">Take a look at that knife. It's a very strange knife. I've never seen one like it before in my life and neither had the storekeeper who sold it to him.</h>
+    </pair>
+    <pair task="ARG" id="31" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="32-j3">And I'm saying it's not possible [that the boy lost the knife and that someone else stabbed his father with a similar knife].</t>
+        <h id="31-j8">I'm not trying to make anyone accept [the hypothesis that the boy lost the knife and that someone else stabbed his father with a similar knife]. I'm just saying it's possible.</h>
+    </pair>
+    <pair task="ARG" id="32" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="33-j8">Maybe there are [ten knives like the one used by the boy].</t>
+        <h id="32-j3">And I'm saying it's not possible [that the boy lost the knife and that someone else stabbed his father with a similar knife].</h>
+    </pair>
+   <pair task="ARG" id="33" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="34-j3">The boy lied [about the fact that he lost the knife and that someone else stabbed his father with a similar knife]].</t>
+        <h id="31-j8">I'm not trying to make anyone accept [the hypothesis that the boy lost the knife and that someone else stabbed his father with a similar knife]. I'm just saying it's possible.</h>
+    </pair>
+    <pair task="ARG" id="34" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="35-j10">Sure [the boy] lied!</t>
+        <h id="34-j3">The boy lied.</h>
+    </pair>
+    <pair task="ARG" id="35" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="36-j4">[The boy] lied.</t>
+        <h id="35-j10"> Sure [the boy] lied!</h>
+    </pair>
+    <pair task="ARG" id="36" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="37-j7">If you want to be stubborn and hang this jury, [the boy] will be tried again and found guilty, sure as he's born.</t>
+        <h id="1-j8">I don't know [if he is guilty].</h>
+    </pair>
+    <pair task="ARG" id="37" topic="Act1-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="38-j8">You're probably right [the boy will be tried again and found guilty].</t>
+        <h id="37-j7">If you want to be stubborn and hang this jury, [the boy] will be tried again and found guilty, sure as he's born.</h>
+    </pair>
+    <pair task="ARG" id="38" topic="Act1-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="39-j9">A man may die [if we say that he is guilty].</t>
+        <h id="38-j8">You're probably right [the boy will be tried again and found guilty].</h>
+    </pair>
+<pair task="ARG" id="39" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="41-j3">The old man heard the kid yell, "I'm gonna kill you". A second later he heard the father's body falling, and he saw the boy running out of the house fifteen seconds after that.</t>
+        <h id="40-j9">It's a feeling I have [that he is not guilty].</h>
+    </pair>
+<pair task="ARG" id="40" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="42-j12">And let's not forget the woman across the street. She looked into the open window and saw the boy stab his father. She saw it. Now if that's not enough for you.</t>
+        <h id="40-j9">It's a feeling I have [that he is not guilty].</h>
+    </pair>
+<pair task="ARG" id="41" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="43-j8">[The woman across the street who looked into the open window and saw the boy stab his father]. It's not enough for me [to consider him guilty].</t>
+        <h id="42-j12">And let's not forget the woman across the street. She looked into the open window and saw the boy stab his father. She saw it. Now if that's not enough for you.</h>
+    </pair>
+<pair task="ARG" id="42" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="44-j4">The woman saw the killing through the windows of a moving elevated train. The train had five cars, and she saw it through the windows of the last two.</t>
+        <h id="43-j8">[The woman across the street who looked into the open window and saw the boy stab his father]. It's not enough for me [to consider him guilty].</h>
+    </pair>
+<pair task="ARG" id="43" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="45-j8">An el takes ten seconds to pass a given point or two seconds per car. That el had been going by the old man's window for at least six seconds and maybe more, before the body fell, according to the woman. The old man would have had to hear the boy say, "I'm going to kill you," while the front of the el was roaring past his nose. It's not possible that he could nave heard it.</t>
+        <h id="41-J3">The old man heard the kid yell, "I'm gonna kill you." A second later he heard the father's body falling, and he saw the boy running out of the house fifteen seconds after that.</h>
+    </pair>
+<pair task="ARG" id="44" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="46-j3">[The old man] said the boy yelled ["I'm going to kill you"] out. That's enough for me.</t>
+        <h id="45-j8">An el takes ten seconds to pass a given point or two seconds per car. That el had been going by the old man's window for at least six seconds and maybe more, before the body fell, according to the woman. The old man would have had to hear the boy say, "I'm going to kill you," while the front of the el was roaring past his nose. It's not possible that he could nave heard it.</h>
+    </pair>
+<pair task="ARG" id="45" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="47-j9">I don't think he could have heard [the old man yelling "I'm going to kill you"].</t>
+        <h id="46-j3">[The old man] said the boy yelled ["I'm going to kill you"] out. That's enough for me.</h>
+    </pair>
+<pair task="ARG" id="46" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="48-j2">Maybe he didn't hear [the boy yelling "I'm going to kill you"]. I mean with the el noise.</t>
+        <h id="47-j9">I don't think he could have heard [the boy yelling "I'm going to kill you"].</h>
+    </pair>
+<pair task="ARG" id="47" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="49-j3">[The old man cannot be a liar, he must have heard the boy yelling "I'm going to kill you"].</t>
+        <h id="48-j2">Maybe he didn't hear [the boy yelling "I'm going to kill you"]. I mean with the el noise.</h>
+    </pair>
+<pair task="ARG" id="48" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="50-j5">It stands to reason, [the old man can be a liar].</t>
+        <h id="49-j3">[The old man cannot be a liar].</h>
+    </pair>
+<pair task="ARG" id="49" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="51-j9">Attention, maybe [the old main is a liar].</t>
+        <h id="50-j5">It stands to reason, [the old man can be a liar].</h>
+    </pair>
+<pair task="ARG" id="50" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="52-j9">He was a very old man with a torn jacket, and he carried two canes. This is a quiet, frightened, insignificant man who has been nothing all his life, who has never had recognition—his name in the newspapers. A man like this needs to be recognized. To be questioned, and listened to, and quoted just once.</t>
+        <h id="51-j9">Attention, maybe [the old main is a liar].</h>
+    </pair>
+<pair task="ARG" id="51" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="53-j9">The old man wouldn't really lie. But perhaps he'd make himself believe that he heard those words and recognized the boy's face. [He wore a torn jacket, and he carried two canes. He is an insignificant man who has been nothing all his life and needs to be recognized].</t>
+        <h id="52-j9">He was a very old man with a torn jacket, and he carried two canes. This is a quiet, frightened, insignificant man who has been nothing all his life, who has never had recognition—his name in the newspapers. A man like this needs to be recognized. To be questioned, and listened to, and quoted just once.</h>
+    </pair>
+<pair task="ARG" id="52" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="54-j3">That's the most fantastic story I've ever heard. You made it up.</t>
+        <h id="53-j9">The old man wouldn't really lie. But perhaps he'd make himself believe that he heard those words and recognized the boy's face.</h>
+    </pair>
+<pair task="ARG" id="53" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="55-j8">I think we proved that the old man couldn't have heard the boy say, "I'm going to kill you" but supposing he really did hear it? This phrase: how many times has each of you used it? Probably hundreds. "If you do that once more, Junior, I'm going to murder you." "Come on, Rocky, kill him!" We say it every day. This doesn't mean that we're going to kill someone.</t>
+        <h id="41-j3">The old man heard the kid yell, "I'm gonna kill you." A second later he heard the father's body falling, and he saw the boy running out of the house fifteen seconds after that.</h>
+    </pair>
+<pair task="ARG" id="54" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="56-j3">The phrase was "I'm going to kill you" and the kid screamed it out at the top of his lungs. Anybody says a thing like that the way he said it — they mean it.</t>
+        <h id="55-j8">I think we proved that the old man couldn't have heard the boy say, "I'm going to kill you" but supposing he really did hear it? This phrase: how many times has each of you used it? Probably hundreds. "If you do that once more, Junior, I'm going to murder you." "Come on, Rocky, kill him!" We say it every day. This doesn't mean that we're going to kill someone.</h>
+    </pair>
+<pair task="ARG" id="55" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="57-j10">And how they mean it [when they say "I'm going to kill you", as the boy screamed out at the top of his lungs.]!</t>
+        <h id="56-j3">The phrase was "I'm going to kill you" and the kid screamed it out at the top of his lungs. Anybody says a thing like that the way he said it—they mean it.</h>
+    </pair>
+<pair task="ARG" id="56" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="58-j8">Do you really think the boy would shout out a ["I'm going to kill you"] so the whole neighborhood would hear it? I don't think so. He's much too bright for that.</t>
+        <h id="56-j3">The phrase was "I'm going to kill you" and the kid screamed it out at the top of his lungs. Anybody says a thing like that the way he said it—they mean it.</h>
+    </pair>
+<pair task="ARG" id="57" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="59-j5">I'd like to change my vote to not guilty.</t>
+        <h id="40-j9">It's a feeling I have [that he is not guilty].</h>
+    </pair>
+<pair task="ARG" id="58" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="60-j7">We're supposed to believe that the old man didn't get up out of bed, run to the door, and see the kid beat it downstairs fifteen seconds after the killing.</t>
+        <h id="45-j8">An el takes ten seconds to pass a given point or two seconds per car. That el had been going by the old man's window for at least six seconds and maybe more, before the body fell, according to the woman. The old man would have had to hear the boy say, "I'm going to kill you," while the front of the el was roaring past his nose. It's not possible that he could nave heard it.</h>
+    </pair>
+<pair task="ARG" id="59" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="61-j8">[We are not supposed to believe that the old man didn't get up out of bed, run to the door, and see the kid beat it downstairs fifteen seconds after the killing]. We're going to find out how a man who's had two strokes in the past three years, and who
+walks with a pair of canes, could get to his front door in fifteen seconds.</t>
+        <h id="60-j7">We're supposed to believe that the old man didn't get up out of bed, run to the door, and see the kid beat it downstairs fifteen seconds after the killing.</h>
+    </pair>
+<pair task="ARG" id="60" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="62-j3">[The man] said [it took him] twenty seconds [to get up out of bed, run to the door, and see the kid beat it downstairs].</t>
+        <h id="61-j8">[We are not supposed to believe that the old man didn't get up out of bed, run to the door, and see the kid beat it downstairs fifteen seconds after the killing]. We're going to find out how a man who's had two strokes in the past three years, and who
+walks with a pair of canes, could get to his front door in fifteen seconds.</h>
+    </pair>
+<pair task="ARG" id="61" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="63-j2">[The man] said [it took him] fifteen seconds [to get up out of bed, run to the door, and see the kid beat it downstairs].</t>
+        <h id="62-j3">[The man] said [it took him] twenty seconds [to get up out of bed, run to the door, and see the kid beat it downstairs].</h>
+    </pair>
+<pair task="ARG" id="62" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="64-j9">[The man] said [it took him] fifteen seconds [to get up out of bed, run to the door, and see the kid beat it downstairs]. He was very positive about it.</t>
+        <h id="63-j2">[The man] said [it took him] fifteen seconds [to get up out of bed, run to the door, and see the kid beat it downstairs].</h>
+    </pair>
+<pair task="ARG" id="63" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="65-j3">He's an old man. Half the time he was confused. He cannot be positive about [the fact that it took him fifteen seconds to get up out of bed, run to the door, and see the kid beat it downstairs]</t>
+        <h id="64-j9">[The man] said [it took him] fifteen seconds [to get up out of bed, run to the door, and see the kid beat it downstairs]. He was very positive about it.</h>
+    </pair>
+<pair task="ARG" id="64" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="66-j11">[The man] can only walk very slowly, [and he was often confused]. They had to help him into the witness chair. [He could have not got up out of bed, run to the door, and see the kid beat it downstairs in fifteen seconds.]</t>
+        <h id="65-j3">He's an old man. Half the time he was confused. He cannot be positive about [the fact that it took him fifteen seconds to get up out of bed, run to the door, and see the kid beat it downstairs]</h>
+    </pair>
+<pair task="ARG" id="65" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="67-j3">[Going to the man's front door is not a long walk. He could have get there in fifteen seconds.]</t>
+        <h id="66-j11">[The man] can only walk very slowly, [and he was often confused]. They had to help him into the witness chair. [He could have not got up out of bed, run to the door, and see the kid beat it downstairs in fifteen seconds.]</h>
+    </pair>
+<pair task="ARG" id="66" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="68-j9">For an old man who uses canes, going [to the man's front door] is a long walk.</t>
+        <h id="67-j3">[Going to the man's front door is not a long walk. He could have get there in fifteen seconds.]</h>
+    </pair>
+<pair task="ARG" id="67" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="69-j8">It's my guess that the old man was trying to get to the door, heard someone racing down the stairs, and assumed that it was the boy.</t>
+        <h id="41-j3">The old man heard the kid yell, "I'm gonna kill you." A second later he heard the father's body falling, and he saw the boy running out of the house fifteen seconds after that.</h>
+    </pair>
+<pair task="ARG" id="68" topic="Act2-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="70-j6">I think that [the old man was trying to get to the door, heard someone racing down the stairs, and assumed that it was the boy] is possible.</t>
+        <h id="69-j8">It's my guess that the old man was trying to get to the door, heard someone racing down the stairs, and assumed that it was the boy.</h>
+    </pair>
+<pair task="ARG" id="69" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="71-j3">This kid is guilty! He's got to burn! We're letting him slip through our fingers here.</t>
+        <h id="40-j9">It's a feeling I have [that he is not guilty].</h>
+    </pair>
+<pair task="ARG" id="70" topic="Act2-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="72-j8">You want to see this boy die because you personally want it—not because of the facts.</t>
+        <h id="71-j3">This kid is guilty! He's got to burn! We're letting him slip through our fingers here.</h>
+    </pair>
+<pair task="ARG" id="71" topic="Act3-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="74-j2">That's a difference of six inches [between the boy and his father]. It's a very awkward thing to stab down into the chest of someone who's half a foot taller than you are.</t>
+        <h id="73-j2">[Maybe the boy] is not guilty.</h>
+    </pair>
+<pair task="ARG" id="72" topic="Act3-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="75-j3">Down and in. That's how I'd stab a taller man in the chest, and that's how [the boy did].</t>
+        <h id="74-j2">That's a difference of six inches [between the boy and his father]. It's a very awkward thing to stab down into the chest of someone who's half a foot taller than you are.</h>
+    </pair>
+<pair task="ARG" id="73" topic="Act3-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="76-j5">Anyone who's ever used a switch knife would never have stabbed downward. You don't handle a switch knife that way. You use it underhanded.</t>
+        <h id="75-j3">Down and in. That's how I'd stab a taller man in the chest, and that's how [the boy did].</h>
+    </pair>
+<pair task="ARG" id="74" topic="Act3-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="77-j8">Then he couldn't have made the kind of wound, which killed his father, [since he has been stabbed downward. Since he had used a switch knife before, he would have used it underhanded].</t>
+        <h id="76-j5">Anyone who's ever used a switch knife would never have stabbed downward. You don't handle a switch knife that way. You use it underhanded.</h>
+    </pair>
+<pair task="ARG" id="75" topic="Act3-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="78-j5">He couldn't have [made the kind of wound, which killed his father]. Not if he'd ever had any experience with switch knives.</t>
+        <h id="77-j8">Then he couldn't have made the kind of wound, which killed his father.</h>
+    </pair>
+<pair task="ARG" id="76" topic="Act3-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="79-j7">I'm changing my vote to not guilty.</t>
+        <h id="73-j2">[Maybe the boy] is not guilty.</h>
+    </pair>
+<pair task="ARG" id="77" topic="Act3-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="80-j10">[This kid is not innocent.] Look, you know how those people lie. They don't know what the truth is. And lemme tell you, they don't need any real big reason to kill someone either. You know, they get drunk, and bang, someone's lying in the gutter.</t>
+        <h id="79-j7">I'm changing my vote to not guilty.</h>
+    </pair>
+<pair task="ARG" id="78" topic="Act3-TwelveAngryMan" BAF="ATTACK" entailment="UNKNOWN">
+        <t id="81-j4">I still believe the boy is guilty of murder. To me, the most damning evidence was given by the woman across the street who claimed she actually saw the murder committed.</t>
+        <h id="73-j2">[Maybe the boy] is not guilty.</h>
+    </pair>
+<pair task="ARG" id="79" topic="Act3-TwelveAngryMan" BAF="SUPPORT" ENTAILMENT="ENTAILMENT">
+        <t id="82-j3">As far as I'm concerned, [the woman across the street who claimed she actually saw the murder committed] is the most important testimony [of the boy's guilt].</t>
+        <h id="81-j4">I still believe the boy is guilty of murder. To me, the most damning evidence was given by the woman across the street who claimed she actually saw the murder committed.</h>
+    </pair>
+<pair task="ARG" id="80" topic="Act3-TwelveAngryMan" BAF="ATTACK" entailment="CONTRADICTION">
+        <t id="83-j8">[The woman] wasn't wearing [her glasses] in bed. She testified that in the midst of her tossing and turning she rolled over and looked casually out the window. The murder was taking place as she looked out, and the lights went out a split second later. She couldn't have had time to put on her glasses. Now maybe she honestly thought she saw the boy kill his father. I say that she saw only a blur.</t>
+        <h id="82-j3">As far as I'm concerned, [the woman across the street who claimed she actually saw the murder committed] is the most important testimony [of the boy's guilt].</h>
+    </pair>
+</entailment-corpus>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entailment-corpus>
+    <pair task="ARG" id="e-te-97" topic="Internetaccess" entailment="NO">
+        <t id="te-12">The right to speak springs from the innate sense of owning one's self rather than being a property of the state, which means that each individual has the right to their own thoughts and to express them. That right doesn't extend to publication, however, which is where Toure’s argument runs off the rails. If one wants to get published, then either one has to own the means to publication or pay someone else for the service. After all, no one has the right to confiscate someone else's printing press in order to get published.</t>
+        <h id="te-2">Internet access is essential now; must be a right. The internet is only that wire that delivers freedom of speech, freedom of assembly, and freedom of the press in a single connection.</h>
+    </pair>
+    <pair task="ARG" id="e-te-99" topic="Groundzeromosque" entailment="NO">
+        <t id="te-2">Cordoba House is no act of tolerance, but of excess/arrogance. Building this structure on the edge of the battlefield created by radical Islamists is not a celebration of religious pluralism and mutual tolerance; it is a political statement of shocking arrogance and hypocrisy.</t>
+        <h id="te-1">The intentions of Cordoba House (also referred to as the "Ground Zero Mosque") developers are pure.</h>
+    </pair>
+    <pair task="ARG" id="e-te-100" topic="Groundzeromosque" entailment="NO">
+        <t id="te-2">Cordoba House is a place of tolerance and integration. Cordoba House is not being built by al-Qaeda. To the contrary, it is the brainchild of Imam Feisal Abdul Rauf, a well-meaning American cleric who has spent years trying to promote interfaith understanding, not an apostle of religious war like Osama bin Laden. The Ground Zero site was selected in part precisely so that it might heal some of the wounds opened by the felling of the twin towers and all that followed.</t>
+        <h id="te-3">Cordoba House is no act of tolerance, but of excess/arrogance. Building this structure on the edge of the battlefield created by radical Islamists is not a celebration of religious pluralism and mutual tolerance; it is a political statement of shocking arrogance and hypocrisy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-101" topic="Groundzeromosque" entailment="NO">
+        <t id="te-4">Victims' families view the imam's expressed plan to "leverage" the mosque's proximity to Ground Zero to engage in proselytizing and to "grow the Muslim community", as shockingly insensitive to the history of the site where their loved ones were slaughtered in the worst terrorist attack by extremist Muslims in America's history.</t>
+        <h id="te-1">The intentions of Cordoba House (also referred to as the "Ground Zero Mosque") developers are pure.</h>
+    </pair>
+    <pair task="ARG" id="e-te-104" topic="Groundzeromosque" entailment="NO">
+        <t id="te-7">Name "Cordoba House" is a very direct historical indication that the Ground Zero mosque is all about conquest and thus an assertion of Islamist triumphalism which we should not tolerate.</t>
+        <h id="te-1">The intentions of Cordoba House (also referred to as the "Ground Zero Mosque") developers are pure.</h>
+    </pair>
+    <pair task="ARG" id="e-te-106" topic="Groundzeromosque" entailment="NO">
+        <t id="te-9">Name "Cordoba House" is about past period of tolerance. Imam Feisal says he chose "Cordoba" in recollection of a time when the rest of Europe had sunk into the Dark Ages but Muslims, Jews and Christians created an oasis of art, culture and science. Mr Gingrich sees only a "deliberate insult", a reminder of a period when Muslim conquerors ruled Spain. Like Mr bin Laden, Mr Gingrich is apparently still relitigating the victories and defeats of religious wars fought in Europe and the Middle East centuries ago.</t>
+        <h id="te-7">Name "Cordoba House" is a very direct historical indication that the Ground Zero mosque is all about conquest and thus an assertion of Islamist triumphalism.</h>
+    </pair>
+    <pair task="ARG" id="e-te-107" topic="Militaryservice" entailment="YES">
+        <t id="te-2">Service helps connect and check military with civilians. A necessary means to ensure the defence forces maintain a close relationship to civil society in order to prevent a repeat of the way in which the Nazi party was able to manipulate professional soldiers in the 1930s.</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+    <pair task="ARG" id="e-te-108" topic="Militaryservice" entailment="NO">
+        <t id="te-3">Conscripts are never as good as professional soldiers.</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+    <pair task="ARG" id="e-te-109" topic="Militaryservice" entailment="YES">
+        <t id="te-4">Conscripts will not last as long nor be as combat reliable in the battlefield as compared to a real soldier who is trained to do both. These 'conscripts' (candidates) are only given the basic training of how to wield a gun and aim, but that short-lived training will never prepare them to readily pull the trigger to end someone's life, therefore lowering their combat-efficiency because of the uncertainties they pose as soldiers.</t>
+        <h id="te-3">Conscripts are never as good as professional soldiers.</h>
+    </pair>
+    <pair task="ARG" id="e-te-110" topic="Militaryservice" entailment="YES">
+        <t id="te-5">Compulsory service brings in unqualified and unfit. There are too many unqualified people and, in addition, quite a lot of them suffer from psychological problems.</t>
+        <h id="te-3">Conscripts are never as good as professional soldiers.</h>
+    </pair>
+    <pair task="ARG" id="e-te-111" topic="Militaryservice" entailment="YES">
+        <t id="te-6">The presidents children are in the military; congresses children are in the military. How fast would they be to go to war with the knowledge that their children would be deployed? Not as fast as they were willing to in the past. The government would defiantly become more willing to look at other options before leaping headfirst into a major conflict.</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+    <pair task="ARG" id="e-te-112" topic="Militaryservice" entailment="YES">
+        <t id="te-7">Mandatory service is a very cost-efficient defence solution. Many European countries who have abandoned military service have had lots of problems recruiting.</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+    <pair task="ARG" id="e-te-113" topic="Militaryservice" entailment="NO">
+        <t id="te-8">Because organized compulsion costs more than real volunteering, the indirect expenses for governments would be still greater. Chief among these are the hidden financial costs of universal national service to the economy in the form of forgone labor.</t>
+        <h id="te-7">Mandatory service is a very cost-efficient defence solution. Many European countries who have abandoned military service have had lots of problems recruiting.</h>
+    </pair>
+<pair task="ARG" id="e-te-114" topic="Militaryservice" entailment="NO">
+        <t id="te-9">Unnecessary to train whole nation to prepare for threats. Suhail Al-Enizi, aged 28, argued in 2010 that military service in Kuwait should not be mandatory: "I am certain that we have enough soldiers in the army. We don't need to train the entire nation in order to be ready for threats; we are not in a police state. This is a democracy."</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+<pair task="ARG" id="e-te-115" topic="Militaryservice" entailment="NO">
+        <t id="te-10">No justification for mandatory service where no threat exists.</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+<pair task="ARG" id="e-te-116" topic="Militaryservice" entailment="NO">
+        <t id="te-11">Conscription during peacetime would mean that the country was prepared for emergencies when they happened, rather than having to prepare after the fact.</t>
+        <h id="te-10">No justification for mandatory service where no threat exists.</h>
+    </pair>
+<pair task="ARG" id="e-te-117" topic="Militaryservice" entailment="YES">
+        <t id="te-12">Swedish brigadier general Bengt Axelsson responded to the phasing out of Sweden's military in 2009: "I want to raise a warning finger. It's not going to be possible to achieve the volume of soldiers people are now counting on having by relying on volunteers".</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+<pair task="ARG" id="e-te-118" topic="Militaryservice" entailment="NO">
+        <t id="te-13">Extensively training individuals that will subsequently only spend a couple of years in their respective roles is simply inefficient. It usually takes many years to secure a good return on investment from such training expenditures. Short-term compulsory service is, therefore, an inefficient use of resources.</t>
+        <h id="te-1">National conscription is important to national security.</h>
+    </pair>
+    <pair task="ARG" id="e-te-119" topic="Noflyzone" entailment="YES">
+        <t id="te-2">No-fly zone would significantly benefit Libyan rebels. General McPeak said to New York Times: "I think it would have a real impact. It might change their calculation of who might come out on top. Just the mere announcement of this might have an impact".</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-120" topic="Noflyzone" entailment="NO">
+        <t id="te-3">Libyan rebels can succeed without no-fly zone. The excessive violence against protesters by Muammar Gaddafi's forces, including the use of air power against civilians, has triggered the rebellion of much of the country and the defection of many military officers to the side of the rebels. Libyan rebels now control the majority of the country, Gaddafi has limited control outside of the capital and his tribal stronghold of Sirt, and most of the military has not committed itself to Gaddafi's defense. Given time, the rebels seem poised to overthrow Gaddafi without outside help.</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-121" topic="Noflyzone" entailment="YES">
+        <t id="te-4">No-fly zone undermines main Libyan regime advantage: airpower.</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-122" topic="Noflyzone" entailment="NO">
+        <t id="te-5">No fly zones have a history of limited effectiveness.</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-123" topic="Noflyzone" entailment="YES">
+        <t id="te-6">Iraq and Kosovo no-fly zones weren't really successes. We should remember that the no-fly zones in Iraq devolved into a decade-long air war that paved the way for the later invasion of Iraq, and the Kosovo intervention brought an end to Serbian control of the province only to deliver it into the hands of a criminal gang in the Kosovo Liberation Army.</t>
+        <h id="te-5">No fly zones have a history of limited effectiveness.</h>
+    </pair>
+    <pair task="ARG" id="e-te-124" topic="Noflyzone" entailment="YES">
+        <t id="te-7">No fly zone in Libya prevents a massacre.</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-125" topic="Noflyzone" entailment="YES">
+        <t id="te-8">If Gadhaffi wins then there will be a massacre. Even if he loses there is likely to be a massacre. It's quite clear to me that were Tripoli to be surrounded Gadhaffi would not meekly surrender. He would go down while aiming to kill as many of his opponents as possible. His aerial forces are the key to his capability to do this. So, while neutralising them is not a guarantee against such a terrible occurrence, it does diminish its possibility".</t>
+        <h id="te-7">No fly zone in Libya prevents a massacre.</h>
+    </pair>
+    <pair task="ARG" id="e-te-126" topic="Noflyzone" entailment="NO">
+        <t id="te-9">No-fly zone wouldn't prevent most atrocities. Leslie Gelb in the The Daily Beast said: "...U.S. jets high up in the sky still wouldn't be able, in most cases, to spot Libyan helicopter attacks at much lower altitudes and destroy them. Since these helicopters are doing the most damage now, what would the interventionists advocate at that point?"</t>
+        <h id="te-7">No fly zone in Libya prevents a massacre.</h>
+    </pair>
+    <pair task="ARG" id="e-te-127" topic="Noflyzone" entailment="YES">
+        <t id="te-10">Along with a no-fly zone, another important step would be to use American military aircraft to jam Libyan state television and radio propaganda and Libyan military communications. General McPeak said such jamming would be dead easy.</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-128" topic="Noflyzone" entailment="NO">
+        <t id="te-11">A no-fly zone would taint not just the Libyan rebels, but the whole Arab pro-democracy movement, as western stooges, sapping the uprising of its home-grown vitality. The Arab League vote in favour represented the region's elites. The "Arab street" would be far more hostile to western intervention, especially if civilians were harmed. Al-Qaida could exploit the consequent turmoil to present itself as the defender of Arab sovereignty and pride.</t>
+        <h id="te-1">A no-fly zone over Libya has a significant impact on conflict.</h>
+    </pair>
+    <pair task="ARG" id="e-te-129" topic="Securityprofiling" entailment="YES">
+        <t id="te-2">Terrorists are most often Muslims; worth profiling them at the airport. We have to talk about the taboo topic of profiling because terrorism experts are increasingly recognizing that religious ideology makes terrorist organizations and terrorists more likely to commit heinous crimes against civilians, such as blowing an airliner out of the sky. Certainly, it's not an easy or comfortable conversation but it's one, I believe, we must have.</t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-130" topic="Securityprofiling" entailment="YES">
+        <t id="te-3">One solution is to use information about passengers (voluntarily provided and readily assessable) to eliminate those who have negligible risk factors, which should be the case for 60 to 70 percent of passengers. Then apply state-of-the art technologies for the remaining pool of passengers, for which less information is known, and subject them to the highest level of security screening, and in some cases, not allow them to fly. We can call this behavioral profiling, information profiling, or whatever we wish. However, until we use security resources appropriately, we will never achieve a secure air system.</t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-131" topic="Securityprofiling" entailment="NO">
+        <t id="te-4">Racial airport security profiling is also unworkable. Once aware of national profiling, terrorists will simply use people from "non-profiled" countries or origins, like FBI most-wanted Qaeda suspect Adam Gadahn, an American.</t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-132" topic="Securityprofiling" entailment="NO">
+        <t id="te-5">Terrorists can easily beat profiling systems and, even worse, profiling creates two paths through security: one with less scrutiny and one with more. And once you do that, you invite the terrorists to take the path with less scrutiny. That is, a terrorist group can safely probe any profiling system and figure out how to beat the profile. And once they do, they're going to get through airport security with the minimum level of screening every time.</t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-133" topic="Securityprofiling" entailment="YES">
+        <t id="te-6">Profiling will use such information as nervousness at airport. We're not talking only about profiling Muslims. We need to take a lesson from the Israelis. When you go through security checkpoints in Tel Aviv airport, you have very highly trained screeners. Someone who is about to carry on a terrorist attack acts nervous, acts suspicious under such scrutiny." </t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-134" topic="Securityprofiling" entailment="YES">
+        <t id="te-7">We have seen that certain types of people who fit a certain profile – young men of a particular ethnic background – have been engaged in terror activities, and targeting this sort of passenger would give people a greater sense of security. Profiling has to be backed by this type of statistical and intelligence-based evidence. There would be no point in stopping Muslim grandmothers.</t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-135" topic="Securityprofiling" entailment="NO">
+        <t id="te-8">It's not true that all terrorists are Muslims. Any such measure would not only alienate people, it would also be ineffective in terms of stopping terrorists. What's to stop them dressing up as orthodox Jews in order to evade profiling-based searches?</t>
+        <h id="te-7">We have seen that certain types of people who fit a certain profile – young men of a particular ethnic background – have been engaged in terror activities, and targeting this sort of passenger would give people a greater sense of security. Profiling has to be backed by this type of statistical and intelligence-based evidence. There would be no point in stopping Muslim grandmothers.</h>
+    </pair>
+    <pair task="ARG" id="e-te-136" topic="Securityprofiling" entailment="NO">
+        <t id="te-9">Many terrorism suspects came from within the United States and European Union countries. Airport profiling does not help against individuals with names and ethnic backgrounds like Richard Reid, Jose Padilla, David Headley and Michael Finton.</t>
+        <h id="te-1">Airport security profiling is an effective strategy.</h>
+    </pair>
+    <pair task="ARG" id="e-te-137" topic="Solarenergy" entailment="YES">
+        <t id="te-2">Slowly but steadily, solar has been in the throes of a quiet revolution, with efficiencies rising, costs falling, and new technological breakthroughs — including the recent development of nano-thin photovoltaic materials — all dramatically changing the game.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-138" topic="Solarenergy" entailment="NO">
+        <t id="te-3">Compared to fossil fuels, sunlight is a weak energy source because the radiation strength is "diluted" by the time the rays reach earth. This makes its collection more difficult and expensive. In general, more high technology, equipment, and land-area are required with solar energy to produce the same amount of energy as other resources. This makes it more challenging and expensive.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-139" topic="Solarenergy" entailment="YES">
+        <t id="te-4">Solar energy is free after the initial investment. Once installed, there are no recurring costs involved with Solar Energy.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-140" topic="Solarenergy" entailment="YES">
+        <t id="te-6">High oil prices make solar more competitive. High oil prices in recent years have made solar power much more price competitive. </t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair> 
+    <pair task="ARG" id="e-te-141" topic="Solarenergy" entailment="YES">
+        <t id="te-6">Solar energy is abundant. Every minute, enough energy arrives at planet Earth to meet human energy demands for a year. It is, therefore, the most abundant energy source available to humans. This abundance makes it an economic gem.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-142" topic="Solarenergy" entailment="NO">
+        <t id="te-7">Solar panels cannot produce energy at night like other alternatives. Coal-electricity and hydroelectricity can both operate 24/7. Solar power, however, can only operate during the day-time. This means that solar power's energy yield is smaller relative to the capital investment.</t>
+        <h id="te-6">Solar energy is abundant. Every minute, enough energy arrives at planet Earth to meet human energy demands for a year. It is, therefore, the most abundant energy source available to humans. This abundance makes it an economic gem.</h>
+    </pair>
+    <pair task="ARG" id="e-te-143" topic="Solarenergy" entailment="NO">
+        <t id="te-8">Clouds and smog undermine solar energy unlike other energy sources. If it is cloudy, the output of solar energy can be reduced by over ninety percent. This means that solar energy is entirely dependent on good weather, an unpredictable variable that is economically unattractive.</t>
+        <h id="te-6">Solar energy is abundant. Every minute, enough energy arrives at planet Earth to meet human energy demands for a year. It is, therefore, the most abundant energy source available to humans. This abundance makes it an economic gem.</h>
+    </pair>
+    <pair task="ARG" id="e-te-144" topic="Solarenergy" entailment="YES">
+        <t id="te-9">The recovery/payback period can be very short. This is the length of time it takes to begin making profits on solar energy.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-145" topic="Solarenergy" entailment="YES">
+        <t id="te-10">Solar energy panels can be added to meet growing needs. If a household or business demands more energy, it can always adds solar panels. Solar energy is easily scalable in this way.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-146" topic="Solarenergy" entailment="YES">
+        <t id="te-11">The employment opportunities created by solar power are interesting because they involve a high degree of interaction between the employee and communities that are demanding solar energy. That is, solar business transactions occur at a local level in face-to-fact deals and sales. More centralized forms of energy production (coal, oil, nuclear) entail employment opportunities that often isolate employees in far off places in which they have very little interaction with the communities that they are actually serving.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-147" topic="Solarenergy" entailment="YES">
+        <t id="te-12">Many solar energy systems are now price competitive with coal.</t>
+        <h id="te-1">Solar energy is economically sound.</h>
+    </pair>
+    <pair task="ARG" id="e-te-148" topic="Solarenergy" entailment="YES">
+        <t id="te-13">Is it possible that solar power will be more cost effective than coal in 12 years? It seems like a pipe dream, but the US government along with huge investors like Goldman Sachs, Chevron, and Google seem to think it's a little better than just a distant possibility. Factoring in tax incentives, likely carbon-capping legislation, and rising natural gas prices, experts are estimating that the prices of coal and solar power will flip-flop by 2020.</t>
+        <h id="te-12">Many solar energy systems are now price competitive with coal.</h>
+    </pair>
+    <pair task="ARG" id="e-te-149" topic="Solarenergy" entailment="YES">
+        <t id="te-14">A new combination of nano and solar technology has made it possible for solar electric generation to be cheaper than burning coal. Nanosolar, Inc. has developed a way to produce a type of ink that absorbs solar radiation and converts into electric current. Photovoltaic (PV) sheets are produced by a machine similar to a printing press, which rolls out the PV ink onto sheets approximately the width of aluminum foil. These PV sheets can be produced at a rate of hundreds of feet per minute.</t>
+        <h id="te-12">Many solar energy systems are now price competitive with coal.</h>
+    </pair>
+    <pair task="ARG" id="e-te-150" topic="Solarenergy" entailment="YES">
+        <t id="te-15">Larry Page, Google co-founder said in late 2007, "With talented technologists, great partners and significant investments, we hope to rapidly push forward. Our goal is to produce one gigawatt of renewable energy capacity that is cheaper than coal. We are optimistic this can be done in years, not decades".</t>
+        <h id="te-12">Many solar energy systems are now price competitive with coal.</h>
+    </pair>
+    <pair task="ARG" id="e-te-151" topic="Solarenergy" entailment="NO">
+        <t id="te-16">Solar panels collect approximately 8 to 15% of the energy that reaches them, while coal-powered plants achieve about 35% efficiency.</t>
+        <h id="te-14">Many solar energy systems are now price competitive with coal.</h>
+    </pair>
+    <pair task="ARG" id="e-te-152" topic="Gasvehicles" entailment="YES">
+        <t id="te-2">As the nation looks for ways to reduce air pollution from vehicles, natural gas is the ideal environmental alternative to gasoline. For starters, natural gas is clean. (It's the same clean-burning natural gas that you use to cook or heat your home). Vehicles fueled with natural gas can dramatically reduce emissions of carbon monoxide and reactive hydrocarbons-which interact with sunlight to produce ozone, the principal component of smog. Natural Gas Vehicles also reduce emissions of carbon dioxide, the principal "greenhouse" gas.</t>
+        <h id="te-1">Natural gas vehicles help cut emissions and fight global warming.</h>
+    </pair>
+    <pair task="ARG" id="e-te-153" topic="Gasvehicles" entailment="YES">
+        <t id="te-3">Compared with their petroleum-powered counterparts, natural gas vehicles greatly reduce greenhouse gas emissions. The exhaust created from natural gas contains 70 percent less carbon monoxide, nearly 90 percent less nitrogen oxide and non-methane organic gas, and virtually no particulate matter.</t>
+        <h id="te-1">Natural gas vehicles help cut emissions and fight global warming.</h>
+    </pair>
+    <pair task="ARG" id="e-te-154" topic="Gasvehicles" entailment="NO">
+        <t id="te-4">Natural gas hardly reduces emissions compared to petroleum. When natural gas replaces gasoline, greenhouse gases are reduced by just 20 to 30%. When natural gas is used instead of diesel in trucks, greenhouse gases are reduced just 10 to 20%. If diesel is almost comparable, then it makes more sense to fund that as a stop gap as that infrastructure is already in place.</t>
+        <h id="te-3">Compared with their petroleum-powered counterparts, natural gas vehicles greatly reduce greenhouse gas emissions. The exhaust created from natural gas contains 70 percent less carbon monoxide, nearly 90 percent less nitrogen oxide and non-methane organic gas, and virtually no particulate matter.</h>
+    </pair>
+    <pair task="ARG" id="e-te-155" topic="Gasvehicles" entailment="YES">
+        <t id="te-5">Natural gas is much cleaner-burning than gasoline. According to the Environmental Protection Agency, natural gas can reduce carbon-monoxide emissions by 90 to 97 percent and nitrogen-oxide emissions by 35 to 60 percent when compared with gasoline. Natural gas can also potentially reduce non-methane hydrocarbon emissions by 50 to 75 percent, while producing fewer carcinogenic pollutants and little or no particulate matter.</t>
+        <h id="te-3">Compared with their petroleum-powered counterparts, natural gas vehicles greatly reduce greenhouse gas emissions. The exhaust created from natural gas contains 70 percent less carbon monoxide, nearly 90 percent less nitrogen oxide and non-methane organic gas, and virtually no particulate matter.</h>
+    </pair>
+    <pair task="ARG" id="e-te-156" topic="Gasvehicles" entailment="NO">
+        <t id="te-6">On the surface, natural gas cars seem alright, but the topic becomes a bit different when these cars are competing against "zero emission" alternatives such as electric cars that are powered utilizing a solar grid.</t>
+        <h id="te-1">Natural gas vehicles help cut emissions and fight global warming.</h>
+    </pair>
+    <pair task="ARG" id="e-te-157" topic="Gasvehicles" entailment="YES">
+        <t id="te-7">Natural gas vehicles run on natural gas, a fossil fuel, so emit significant amounts of greenhouse gases into the atmosphere, albeit smaller amounts than gasoline-fueled cars (roughly 30% less). If our goal is to aggressively fight global warming, does it make sense to invest in slightly cleaner technologies, or fully 0-emission ones? If we are serious about combating global warming, we should be focusing our energies and investments solely on 0-emission electric vehicles.</t>
+        <h id="te-6">On the surface, natural gas cars seem alright, but the topic becomes a bit different when these cars are competing against "zero emission" alternatives such as electric cars that are powered utilizing a solar grid.</h>
+    </pair>
+    <pair task="ARG" id="e-te-158" topic="Gasvehicles" entailment="NO">
+        <t id="te-8">Natural gas is the cleanest transportation fuel available today. The important conclusion is that, if we want to immediately begin the process of significantly reducing greenhouse gas emissions, natural gas can help now. Other alternatives cannot be pursued as quickly.</t>
+        <h id="te-6">On the surface, natural gas cars seem alright, but the topic becomes a bit different when these cars are competing against "zero emission" alternatives such as electric cars that are powered utilizing a solar grid.</h>
+    </pair>
+    <pair task="ARG" id="e-te-159" topic="Gasvehicles" entailment="YES">
+        <t id="te-9">Gasoline vehicles can be converted to run on natural gas. This means that heavy-polluting vehicles can be transformed into much lower-emission vehicles. This is key, as the millions of gasoline vehicles on the road currently cannot be immediately removed from the road. </t>
+        <h id="te-1">Natural gas vehicles help cut emissions and fight global warming.</h>
+    </pair>
+    <pair task="ARG" id="e-te-160" topic="Gasvehicles" entailment="NO">
+        <t id="te-10">Gasoline/petrol vehicles converted to run on natural gas suffer because of the low compression ratio of their engines, resulting in a cropping of delivered power while running on natural gas (10%-15%). This inefficiency is costly economically and in terms of global warming.</t>
+        <h id="te-9">Gasoline vehicles can be converted to run on natural gas. This means that heavy-polluting vehicles can be transformed into much lower-emission vehicles. This is key, as the millions of gasoline vehicles on the road currently cannot be immediately removed from the road.</h>
+    </pair>
+    <pair task="ARG" id="e-te-161" topic="Gasvehicles" entailment="NO">
+        <t id="te-11">Natural gas will simply relieve demand pressures on coal and petroleum and, subsequently, decrease prices. This will only make it easier for people to buy and consume oil and coal. Natural gas will not, therefore, replace coal and petroleum. It will only add to the absolute amount of fossil fuels we are burning, and greenhouse gases we are emitting.</t>
+        <h id="te-1">Natural gas vehicles help cut emissions and fight global warming.</h>
+    </pair>
+    <pair task="ARG" id="e-te-162" topic="Gasvehicles" entailment="NO">
+        <t id="te-12">Methane is a much worse greenhouse gas than C02. Methane is very prominent within "natural gas". This is of concern because the drilling and transportation of natural gas will inevitably lead to leaks and large-scale "spills" that will release this highly harmful gas into the atmosphere and contribute substantially to global warming. These risks should not be taken.</t>
+        <h id="te-1">Natural gas vehicles help cut emissions and fight global warming.</h>
+    </pair>
+    <pair task="ARG" id="e-te-163" topic="Cellphones" entailment="NO">
+        <t id="te-2">Citizens' judgement should be trusted in using cell phones. For example, it is responsible to use a cell phone while the car is at a standstill in gridlocked traffic, while waiting at traffic lights, or on a quiet road with good visibility ahead. The driver should be taught to use cell phones on the road with discretion, rather than rigidly banning their use all together.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-164" topic="Cellphones" entailment="YES">
+        <t id="te-3">Physically holding a handset removes one hand from the controls, making accidents more likely, while dialling is even worse, as it also requires the user to divert their attention away from the road.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-165" topic="Cellphones" entailment="YES">
+        <t id="te-4">Research shows that drivers speaking on a mobile phone have much slower reactions in braking tests than non-users, and are worse even than if they have been drinking.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-166" topic="Cellphones" entailment="YES">
+        <t id="te-5">In Britain, a study a few years ago, using a driving simulator, found that motorists using hand-held phones took 30 per cent longer to react to hazards than motorists driving under the influence of alcohol and 50 per cent longer than drivers not under the influence.</t>
+        <h id="te-4">Research shows that drivers speaking on a mobile phone have much slower reactions in braking tests than non-users, and are worse even than if they have been drinking.</h>
+    </pair>
+    <pair task="ARG" id="e-te-167" topic="Cellphones" entailment="YES">
+        <t id="te-6">Even more dangerous than talking on the phone while driving is fumbling in a pocket or handbag for a ringing phone while travelling at 100kmh on the motorway.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-168" topic="Cellphones" entailment="NO">
+        <t id="te-7">A recent National Highway Traffic Safety Administration survey reports that 44 percent of drivers have a cell phone with them while driving, a number that will only increase with the proliferation of phone ownership. We calculated that car accidents associated with phone use account for about 300 deaths per year. While small in comparison to the 41,000 annual deaths from car accidents, these deaths raise the question whether cell phone use while driving is justifiable. We think a ban is unwise at this time because vehicular cell phone use provides substantial personal and societal benefits, but does not contribute to a large number of serious accidents.</t>
+        <h id="te-3">Physically holding a handset removes one hand from the controls, making accidents more likely, while dialling is even worse, as it also requires the user to divert their attention away from the road.</h>
+    </pair>
+    <pair task="ARG" id="e-te-169" topic="Cellphones" entailment="YES">
+        <t id="te-8">Driving while using cellphones reduces safety margins. Those who assert they know the difference between safe and unsafe use of phones should ask themselves if they are equally confident that the testosterone-loaded 18-year-old rushing from football practice to meet his girlfriend will show the same good judgment when his phone beeps as he approaches in the opposite direction.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-170" topic="Cellphones" entailment="NO">
+        <t id="te-9">Regulation could negate the safety benefits of having a phone in the car. When you're stuck in traffic, calling to say you'll be late can reduce stress and make you less inclined to drive aggressively to make up lost time.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-171" topic="Cellphones" entailment="NO">
+        <t id="te-10">If one is late, there is little difference in apologizing while in their car over a cell phone and apologizing in front of their boss at the office. So, they should have the restraint to drive at the speed limit, arriving late, and being willing to apologize then; an apologetic cell phone call in a car to a boss shouldn't be the cause of one being able to then relax, slow-down, and drive the speed-limit.</t>
+        <h id="te-9">Regulation could negate the safety benefits of having a phone in the car. When you're stuck in traffic, calling to say you'll be late can reduce stress and make you less inclined to drive aggressively to make up lost time.</h>
+    </pair>
+    <pair task="ARG" id="e-te-172" topic="Cellphones" entailment="NO">
+        <t id="te-11">Using mobiles on the road could improve safety, for example, by allowing delayed employees to ring in to the office rather than drive recklessly in an effort to arrive more promptly. Drivers now often use mobile phones to report accidents to the emergency services, and alert the police to dangerous driving, stray animals, unsafe loads, etc.</t>
+        <h id="te-1">The use of cell-phones while driving is a public hazard.</h>
+    </pair>
+    <pair task="ARG" id="e-te-173" topic="Marijuanafree" entailment="YES">
+        <t id="te-2">Individuals should be free to use marijuana. If an individual wants to harm themselves, they should be free to do so.</t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-174" topic="Marijuanafree" entailment="NO">
+        <t id="te-3">Even if marijuana's effects were isolated to the individual, there is room for the state to protect individuals from harming themselves. This is why it is illegal, in some places, not wear a seat belt. If marijuana's effects are seen as clearly harmful, the state can justly protect its citizens from it.</t>
+        <h id="te-2">Individuals should be free to use marijuana. If an individual wants to harm themselves, they should be free to do so.</h>
+    </pair>
+    <pair task="ARG" id="e-te-175" topic="Marijuanafree" entailment="YES">
+        <t id="te-4">People should be at liberty to treat their bodies how they want to. Indeed, people are allowed to eat and drink to their detriment and even death, so why shouldn't they be able to harm themselves with marijuana use? This is, of course, assuming that their use does not harm anyone else. This means, as with substances such as alcohol or cigarrettes, that regulations be put in place to ensure that one individual's consumption of marijuana does not violate the liberties of another citizen. If this is achievable with alcohol and cigarettes, it seems achievable with marijuana.</t>
+        <h id="te-2">Individuals should be free to use marijuana. If an individual wants to harm themselves, they should be free to do so.</h>
+    </pair>
+    <pair task="ARG" id="e-te-176" topic="Marijuanafree" entailment="YES">
+        <t id="te-5">Marijuana induces different experiences in different individuals; some of these experiences are great, some are terrible and harmful. Individuals should be free to choose to use marijuana or not, depending on their relative experience.</t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-177" topic="Marijuanafree" entailment="NO">
+        <t id="te-6">If marijuana is harmful, shouldn't individuals be at liberty to experience the punishment of a poor choice, and shouldn't this mean that marijuana use entails its own punishments that requires no imposed government punishment.</t>
+        <h id="te-3">Even if marijuana's effects were isolated to the individual, there is room for the state to protect individuals from harming themselves. This is why it is illegal, in some places, not wear a seat belt. If marijuana's effects are seen as clearly harmful, the state can justly protect its citizens from it.</h>
+    </pair>
+    <pair task="ARG" id="e-te-178" topic="Marijuanafree" entailment="YES">
+        <t id="te-7">Although cannabis does indeed have some harmful effects, it is no more harmful than legal substances like alcohol and tobacco. As a matter of fact, research by the British Medical Association shows that nicotine is far more addictive than cannabis. Furthermore, the consumption of alcohol and the smoking of cigarettes cause more deaths per year than does the use of cannabis. The legalization of cannabis will remove an anomaly in the law whereby substances that are more dangerous than cannabis are legal whilst the possession and use of cannabis remains unlawful. </t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-179" topic="Marijuanafree" entailment="NO">
+        <t id="te-8">Various risks to other citizens are greatly enhanced by marijuana use.</t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-180" topic="Marijuanafree" entailment="YES">
+        <t id="te-9">Legalization of marijuana would make roads more dangerous.</t>
+        <h id="te-8">Various risks to other citizens are greatly enhanced by marijuana use.</h>
+    </pair>
+    <pair task="ARG" id="e-te-181" topic="Marijuanafree" entailment="YES">
+        <t id="te-10">Some train and plane tragedies were connected with marijuana use.</t>
+        <h id="te-8">Various risks to other citizens are greatly enhanced by marijuana use.</h>
+    </pair>
+    <pair task="ARG" id="e-te-182" topic="Marijuanafree" entailment="YES">
+        <t id="te-11">Legalization of marijuana would increase work-place accidents.</t>
+        <h id="te-8">Various risks to other citizens are greatly enhanced by marijuana use.</h>
+    </pair>
+    <pair task="ARG" id="e-te-183" topic="Marijuanafree" entailment="YES">
+        <t id="te-12">There are currently no widely-accepted and easily-administered tests available to detect whether someone's judgement or ability to function has been compromised by marijuana use. For those who drink and drive, we have the breathalyser. But there is no way for us to know whether the driver next to you on the road or the pilot flying a plane or someone operating heavy machinery is under the influence of marijuana. There is no way for us to know whether they pose a danger to lives of others.</t>
+        <h id="te-8">Various risks to other citizens are greatly enhanced by marijuana use.</h>
+    </pair>
+    <pair task="ARG" id="e-te-184" topic="Marijuanafree" entailment="YES">
+        <t id="te-13">Instances of brutal violence and murder have been cited as caused, to some extent, by marijuana use and impaired judgement.</t>
+        <h id="te-8">Various risks to other citizens are greatly enhanced by marijuana use.</h>
+    </pair>
+    <pair task="ARG" id="e-te-185" topic="Marijuanafree" entailment="NO">
+        <t id="te-14">First, decriminalizing marijuana possession will enable users to spend more time being high. When people can walk the streets with it in their pockets without fear of arrest, they will have it more often and use it more often. It is hardly an encouraging prospect to think that marijuana users will be high more often. Such a disastrous outcome will put even more pressure on our families, communities, businesses, health services, and law enforcement officials.</t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-186" topic="Marijuanafree" entailment="NO">
+        <t id="te-15">Marijuana's public health costs violate tax-payer liberties.</t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-187" topic="Marijuanafree" entailment="NO">
+        <t id="te-16">Marijuana may indeed have indirect social costs, such as increased healthcare costs, increased risks on the road, and others. But, illegalizing marijuana on this basis risks being seen as arbitrary discrimination against marijuana. Wouldn't you also have to illegalize alcohol, tobacco, and fast food on a similar basis. Certainly, the social costs and risks of these substances can be argued as equivalent to the risks of marijuana consumption. Illegalizing marijuana on the basis of its social costs, therefore, opens the law to accusations of being arbitrary, discriminatory, and of double standards.</t>
+        <h id="te-15">Marijuana's public health costs violate tax-payer liberties.</h>
+    </pair>
+    <pair task="ARG" id="e-te-188" topic="Marijuanafree" entailment="YES">
+        <t id="te-17">The problem with illegalizing marijuana is that it lumps the most moderate of uses of marijuana in with the worst of abuses. Just like with alcohol, there are scales of use that fall within responsible to irresponsible to abusive categories. The responsible use of marijuana might involve the recreational use of the drug a couple of times a year and in very small doses, such as, a single toke. Does it make sense for such innocuous levels of consumption to be illegal? No. And, yet, in states where marijuana is illegal, such levels of consumption are illegal. Instead of this system, marijuana should be legally regulated like alcohol on the basis of abuse in circumstances where it has the potential to threaten other citizens, such as before driving or operating machinery.</t>
+        <h id="te-1">Individuals should be at liberty to use marijuana.</h>
+    </pair>
+    <pair task="ARG" id="e-te-189" topic="Gaymarriage" entailment="YES">
+        <t id="te-2">Legalizing same-sex marriage would also be a recognition of basic American principles, and would represent the culmination of our nation's commitment to equal rights. It is, some have said, the last major civil-rights milestone yet to be surpassed in our two-century struggle to attain the goals we set for this nation at its formation.</t>
+        <h id="te-1">Gay marriage is a civil right.</h>
+    </pair>
+    <pair task="ARG" id="e-te-190" topic="Gaymarriage" entailment="YES">
+        <t id="te-3">The case for allowing gays to marry begins with equality, pure and simple. Why should one set of loving, consenting adults be denied a right that other such adults have and which, if exercised, will do no damage to anyone else?</t>
+        <h id="te-1">Gay marriage is a civil right.</h>
+    </pair>
+    <pair task="ARG" id="e-te-191" topic="Gaymarriage" entailment="NO">
+        <t id="te-4">State recognition of marriage is not a universal right. States regulate marriage in many ways besides denying men the right to marry men, and women the right to marry women. Roughly half of all states prohibit first cousins from marrying, and all prohibit marriage of closer blood relatives, even if the individuals being married are sterile. In all states, it is illegal to attempt to marry more than one person, or even to pass off more than one person as one's spouse. Some states restrict the marriage of people suffering from syphilis or other venereal diseases. Homosexuals, therefore, are not the only people to be denied the right to marry the person of their choosing.</t>
+        <h id="te-1">Gay marriage is a civil right.</h>
+    </pair>
+    <pair task="ARG" id="e-te-192" topic="Gaymarriage" entailment="NO">
+        <t id="te-5">The primary intent in restricting marriage to opposite sex couples is to maintain marriage as the institution that fulfils society's need to protect the inherently procreative relationship and its functions for society, and is not to exclude homosexual relationships because they are homosexual. The discrimination involved in the exclusion is a secondary effect which is not desired but unavoidable, and it is justified or excused by the primary purpose which otherwise cannot be realized.</t>
+        <h id="te-1">Gay marriage is a civil right.</h>
+    </pair>
+    <pair task="ARG" id="e-te-193" topic="Gaymarriage" entailment="YES">
+        <t id="te-6">When we refuse to accord the status of civil right to gays and lesbians marriage, we discourage them from forming the same relationships we encourage for others. And we are also telling them, those who love them, and society as a whole that their relationships are less worthy, less legitimate, less permanent, and less valued. We demean their relationships and we demean them as individuals. I cannot imagine how we benefit as a society by doing so.</t>
+        <h id="te-1">Gay marriage is a civil right.</h>
+    </pair>
+    <pair task="ARG" id="e-te-194" topic="Gaymarriage" entailment="YES">
+        <t id="te-7">When gay people say that this is a civil rights issue, we are referring to matters like the fact that we cannot make medical decisions for our partners in an emergency. Instead, the hospitals are usually forced by state laws to go to the families who may be estranged from us for decades, who are often hostile to us, and totally ignore our wishes for the treatment of our partners. These aren't just theoretical issues, either; they happen with surprising frequency.</t>
+        <h id="te-1">Gay marriage is a civil right.</h>
+    </pair>
+    <pair task="ARG" id="e-te-195" topic="Vegetarianism" entailment="YES">
+        <t id="te-2">Animal life is equivalent in value to human life. Mahatma Gandhi said "To my mind, the life of a lamb is no less precious than that of a human being".</t>
+        <h id="te-1">Humans and animals are of equal value.</h>
+    </pair>
+    <pair task="ARG" id="e-te-196" topic="Vegetarianism" entailment="NO">
+        <t id="te-3">Moral status is a-matter-of-degree, and that human and non-human animals have moral status, or intrinsic value, but to different degrees. On this view, moral status, or intrinsic value, of an animal is dependent on, and derived from, its capacity to have a rich life, which is in turn dependent on its experiential capacity. Given that human beings have the capacity to a richer life than other animals, they also have higher intrinsic value or moral status. Similarly, mammals also have higher intrinsic value than birds, which in turn would have higher intrinsic value than reptiles, which has higher intrinsic value than fish, shrimps, etc. I claim that the "matter-of-degree" view is the only plausible view on the comparative moral status between humans and non-humans.</t>
+        <h id="te-2">Animal life is equivalent in value to human life. Mahatma Gandhi said "To my mind, the life of a lamb is no less precious than that of a human being".</h>
+    </pair>
+    <pair task="ARG" id="e-te-197" topic="Vegetarianism" entailment="NO">
+        <t id="te-4">Unlike animals, humans are capable of rational thought and can alter the world around them. Religious people would say that humans also have souls and a different relationship with God. Other creatures were put on this earth for mankind to use, and that includes eating meat. For all these reasons we say that men and women have rights and that animals don't.</t>
+        <h id="te-2">Animal life is equivalent in value to human life. Mahatma Gandhi said "To my mind, the life of a lamb is no less precious than that of a human being".</h>
+    </pair>
+    <pair task="ARG" id="e-te-198" topic="Vegetarianism" entailment="YES">
+        <t id="te-5">Many of the physical abilities of animals are astonishing and far superior to the correlating abilities of humans. Eagles, for instance, have many times better eye-sight than humans. They are also better fliers. As such, it is wrong to claim that humans are, generally, superior and thus authorized to eat other animals; we're simply different creatures of no greater or lesser value.</t>
+        <h id="te-1">Humans and animals are of equal value.</h>
+    </pair>
+    <pair task="ARG" id="e-te-199" topic="Vegetarianism" entailment="YES">
+        <t id="te-6">Animals have emotions, personalities, and souls just like humans.</t>
+        <h id="te-1">Humans and animals are of equal value.</h>
+    </pair>
+    <pair task="ARG" id="e-te-200" topic="Vegetarianism" entailment="YES">
+        <t id="te-7">The philosophy of animal rights is respectful of our best science in general and evolutionary biology in particular. The latter teaches that, in Darwin's words, humans differ from many other animals "in degree", not in kind. Questions of line drawing to one side, it is obvious that the animals used in laboratories, raised for food, and hunted for pleasure or trapped for profit, for example, are our psychological kin. This is no fantasy, this is fact, proven by our best science.</t>
+        <h id="te-1">Humans and animals are of equal value.</h>
+    </pair>
+</entailment-corpus>
